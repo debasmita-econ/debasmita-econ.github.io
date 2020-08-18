@@ -18,6 +18,10 @@ layout: default
 * [Red Cavalry](https://bookshop.org/books/red-cavalry/9781782270935) by Isaac Babel
 * [Grant](https://bookshop.org/books/grant/9780143110637) by Ron Chernow
 * [My Brilliant Friend](https://bookshop.org/books/my-brilliant-friend/9781609450786) by Elena Ferrante
+* [The Story of a New Name](https://bookshop.org/books/the-story-of-a-new-name-neapolitan-novels-book-two/9781609451349) by Elena Ferrante
+* [Those Who Leave and Those Who Stay](https://bookshop.org/books/those-who-leave-and-those-who-stay-neapolitan-novels-book-three/9781609452339) by Elena Ferrante
+* [The Story of the Lost Child](https://bookshop.org/books/the-story-of-the-lost-child-9781609452865/9781609452865) by Elena Ferrante
+* [Strangers on a Train](https://bookshop.org/books/strangers-on-a-train/9780393321982) by Patricia Highsmith
 
 <br>
 
