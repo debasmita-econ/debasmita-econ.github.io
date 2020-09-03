@@ -47,7 +47,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 <table style="width:100%">
   <tr>
     <td width="15%">Fall 2020</td>
-    <td>TAing INFO 3300: Text Mining for History and Literature with Matt Wilkens</td>
+    <td>TAing INFO 3300: Text Mining for History and Literature with Matthew Wilkens</td>
   </tr>
   <tr>
     <td width="15%">Jul 2020</td>
