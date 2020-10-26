@@ -22,6 +22,8 @@ layout: default
 * [Those Who Leave and Those Who Stay](https://bookshop.org/books/those-who-leave-and-those-who-stay-neapolitan-novels-book-three/9781609452339) by Elena Ferrante
 * [The Story of the Lost Child](https://bookshop.org/books/the-story-of-the-lost-child-9781609452865/9781609452865) by Elena Ferrante
 * [Strangers on a Train](https://bookshop.org/books/strangers-on-a-train/9780393321982) by Patricia Highsmith
+* [The Dispossessed](https://bookshop.org/books/the-dispossessed-9780060512750/9780061054884) by Ursula K. Le Guin
+* [Annihilation](https://bookshop.org/books/annihilation-9780374104092/9780374104092) by Jeff VanderMeer
 
 <br>
 

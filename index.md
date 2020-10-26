@@ -47,7 +47,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 <table style="width:100%">
   <tr>
     <td width="15%">Fall 2020</td>
-    <td>TAing INFO 3300: Text Mining for History and Literature with Matthew Wilkens</td>
+    <td>TAing <a href="https://github.com/wilkens-teaching/info3350-f20">INFO 3350: Text Mining for History and Literature</a> with <a href="https://mattwilkens.com/">Matthew Wilkens</a></td>
   </tr>
   <tr>
     <td width="15%">Jul 2020</td>
@@ -74,20 +74,11 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 <br>
 
-<!-- ## Teaching
-
-Fall 2019: TA for INFO 3350/6350: [Text Mining for History & Literature](https://mimno.infosci.cornell.edu/info3350/)
-
-Spring 2019: TA for [INFO 3300: Data-driven Web Applications](http://jeffrz.com/info3300/)  
-  
-Spring 2017: TA for [INFO 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
-
-<br> -->
 
 ## Other Things
 
 * I'm the current President of [Grads for Gender Inclusion in Computing](https://gsgic.org/) at Cornell. 
-<!-- * I'm the current Treasurer (and former Social Chair) of [Graduate Women in Science](https://gwiscornell.wordpress.com/) at Cornell. -->
+* I'm the current Webmaster (and former Social Chair and Treasurer) of [Graduate Women in Science](https://gwiscornell.wordpress.com/) at Cornell.
 * In undergrad, I studied in the [Program of Liberal Studies](https://pls.nd.edu/), a reading-oriented set of tutorials and seminars, at the University of Notre Dame. I'm always happy to talk to students who are interested in transitioning from the humanities to technology.
 * [books books books](https://maria-antoniak.github.io/reading)
 
