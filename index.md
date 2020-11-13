@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="me.png">
 
-I'm a researcher and data scientist working in natural language processing, computational social science, and cultural analytics. I'm interested in modeling how people communicate about their subjective experiences through text, espeically when these communications occur in online communities centered on healthcare support or cultural objects like books and games. My research relies on unsupervised machine learning methods and re-explores the reliability and evaluation of these methods when applied to small, topic-focused datasets. 
+I'm a researcher and data scientist working in natural language processing, computational social science, and cultural analytics. I'm interested in modeling how people communicate about their subjective experiences through text, espeically when these communications occur in online communities centered on healthcare support or cultural objects like books or games. My research relies on unsupervised machine learning methods and re-explores the reliability and evaluation of these methods when applied to small, topic-focused datasets. 
 
 My past work has examined how postpartum people frame their [birth experiences](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf),  how people communicate their [pain levels](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) to physicians, and how the use of word embedding models require additional [stability tests](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf) when used to measure biases.
 
