@@ -24,6 +24,7 @@ layout: default
 * [Strangers on a Train](https://bookshop.org/books/strangers-on-a-train/9780393321982) by Patricia Highsmith
 * [The Dispossessed](https://bookshop.org/books/the-dispossessed-9780060512750/9780061054884) by Ursula K. Le Guin
 * [Annihilation](https://bookshop.org/books/annihilation-9780374104092/9780374104092) by Jeff VanderMeer
+* [The Spy Who Came in from the Cold](https://bookshop.org/books/the-spy-who-came-in-from-the-cold/9780143124757) by John Le Carré
 
 <br>
 
