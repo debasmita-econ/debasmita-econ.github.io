@@ -124,7 +124,7 @@ Some tips for the visit days:
 - If possible, go for a walk on your own. Explore campus and the area where you might live. Try to picture your life in this place and see how it feels.
 - For Cornell and other places in the northern U.S., bring a warm coat and practical shoes!
 
-If you find yourself talkign to a reliable and sympathetic student, here are some questions I might ask them:
+If you find yourself talking to a reliable and sympathetic student, here are some questions I might ask them:
 - Do you know Potential Advisor X? How do they treat their students? Are they nice? Do their students seem to have a good work life balance? Do they seem happy? Is there anything I should know about Potential Advisor X?
 - Do you like the other students? Do you feel safe? Does the department have any sexual harassment problems? Race-based harassment? How are disabled students treated?
 - How much does your apartment cost? What neighborhood do you live in? Are most students able to find summer funding? Is it ok to do internships?
