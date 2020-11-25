@@ -64,7 +64,7 @@ David is 100% wonderful, and I'm incredibly lucky to work with him. Not all advi
 
 ### What is David looking for in an applicant? Is David taking students this year?
 
-You have to ask David these questions! He also has a [helpful page](https://mimno.infosci.cornell.edu/students.html) on his website. :)
+You have to ask David these questions! He also has a [helpful page](https://mimno.infosci.cornell.edu/students.html) on his website in case you can't reach him by email. :)
 
 ### What's it like living in Ithaca?
 
@@ -110,7 +110,7 @@ Some tips for the visit days:
 - BE NICE. Even if you don't choose this program, it's *very* likely that you'll meet these students and faculty again. Academia is a small place! Be polite and professional, and recognize that while yes, everyone is trying to convince you to come to their program, and yes, they're all very excited about you, they've all also done amazing things and earned their place here. Don't disparage other people's work, their affiliations, or their demographic groups.
 - Keep a level head. It's so exciting to finally meet some of your research heroes in person, and then to hear them saying "I want to work with you" can feel unreal. Enjoy it, but also take a step back and consider your own needs first. Ultimately, for various reasons, everyone at the visit day, from faculty to staff to students, is trying to persuade you to join their program. Even the most introverted and seemingly awkward professor is actually very skilled at persuasion (that's how they published their papers, won their grants, got their students!). I got this advice from Jean Yang's [blog]() before my visits, and it was really helpful.
 - If possible, go for a walk on your own. Explore campus and the area where you might live. Try to picture your life in this place and see how it feels.
-- For Cornell and other places in the northern U.S., bring a warm coat and shoes!
+- For Cornell and other places in the northern U.S., bring a warm coat and practical shoes!
 
 ### Choosing Between Programs
 
@@ -118,9 +118,9 @@ Ultimately, you have to follow your heart. You only get one PhD (hopefully), and
 
 Here are some factors I would consider:
 - Advisor. This is the most important. Who do you want to work with? Are they kind and supportive? 
-- Back up advisor. Sometimes professors leave academia, retire, get sick, etc. They're human and these things happen more often than you might expect! Or you might not click with your original advisor. If there isn't anyone else to work with, you might face some hard decisions, so I recommend going somewhere with multiple interesting faculty.
+- Back up advisor. Sometimes professors leave academia, retire, get sick, etc. They're human and these things happen more often than you might expect! Or you might not click with your original advisor, or something else might happen. If there isn't anyone else to work with, you might face some hard decisions, so I recommend going somewhere with multiple interesting faculty.
 - Location. Be honest with yourself about where you'll be healthiest and happiest. In addition, different countries have different timelines and systems, e.g., Europe has 3 year PhD programs while most US programs take at least 5 years.
-- Money. Did one of the programs offer you a fellowship? What is the cost of living around the university? 
+- Money. Did one of the programs offer you a fellowship? What is the cost of living in that area? 
 - Other students. You're going to be spending *a lot* of time with these people. Do you feel comfortable with them? Do you feel safe and represented?
 
 <br>
