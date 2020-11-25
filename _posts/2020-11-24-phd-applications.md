@@ -57,7 +57,7 @@ People have widely varying opinions on this. Some faculty don't respond to any e
 
 ### What's the difference between Information Science and Computer Science?
 
-Not much! You take different core courses (IS courses focus on HCI, society, data science, design, and networks), and you'll regularly attend different talks and be surrounded by different people. But we all sit in the same building (some even in the same office!), many of the faculty (like my advisor) advise students in both departments, and we have many shared events and academic interests. All the CS and IS talks are open to students in both areas, and in my own lab, there are an even mix of CS and IS students.
+Not much! You take different core courses (IS courses focus on HCI, society, data science, design, and networks), and you'll regularly attend different talks and be surrounded by different people. But we all sit in the same building (some even in the same office!), many of the faculty (like my advisor) advise students in both departments, and we have many shared events and academic interests. All the CS and IS talks are open to students in both areas, and in my own lab, there is an even mix of CS and IS students.
 
 ### What do you like best about Cornell Information Science?
 
