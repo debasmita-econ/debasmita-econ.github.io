@@ -150,9 +150,8 @@ Here are some practical factors I would consider:
 
 Here is some more advice on PhD applications that might be helpful.
 
-- [Applying to Grad School Blog Series](http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-1-deciding-to-apply.html) by Jean Yang
 - [PhD Application Tips](https://www.youtube.com/watch?v=dAk3pEa4OZs) by Casey Fiesler 
+- [Applying to Grad School Blog Series](http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-1-deciding-to-apply.html) by Jean Yang
 - [PhD Applications: FAQ](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) by Noah Smith
-- 
 
 <br><br>
