@@ -48,6 +48,8 @@ Some of my results confirm work from prior qualitative studies of birth stories,
 
 My hope is that medical professionals and researchers will listen to the voices in these stories. They deserve our attention!
 
+<br><br>
+
 _November 05, 2019_
 
 <br><br><br>

@@ -133,6 +133,8 @@ These explanations and visualizations are often very creative and thoughtful. Th
 
 (I've tried to credit the authors wherever possible, but I couldn't identify a few of them. If you know who created these resources, please contact me!)
 
+<br><br>
+
 _November 19, 2018_
 
 <br><br><br>

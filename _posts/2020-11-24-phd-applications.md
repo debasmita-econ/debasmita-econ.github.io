@@ -155,3 +155,7 @@ Here is some more advice on PhD applications that might be helpful.
 - [PhD Applications: FAQ](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) by Noah Smith
 
 <br><br>
+
+*November 24, 2020*
+
+<br><br><br>
