@@ -36,7 +36,7 @@ This is such a hard question, and no one can answer it for you. I think that if 
 - Money! Even with summer internships, you're going to make so much less money than you would in industry (I'm writing here from a tech standpoint). Instead of doing the PhD, you could be saving for a house, fancy vacations, stability for your family, retirement. I would *seriously* consider this if money is at all a concern for you.
 - Being surrounded by other very intelligent and ambitious people. It can get exhausting and frustrating after a while.
 - Potentially moving to a place far from friends and family. 5-7 years is a long time to be mostly absent.
-- Your mental health with very, very likely take a hit. I wasn't prepared for this at all and didn't think the stress would affect me so much, but trust the numbers (an absurd percentage of PhD students report symptoms of depression, anxiety, and suicidal ideation). It's hard to explain to someone who hasn't experienced it, but in academia, you are constantly competing and being judged, with infrequent and irregular positive feedback. In addition, the power structures are ripe for abuse; in many ways, you're completely dependent on your advisor, so if they're not supportive, you're probably going to suffer (this luckily hasn't been the case for me!).
+- Your mental health with very, very likely take a hit. I wasn't prepared for this at all and didn't think the stress would affect me so much, but trust the numbers (a much higher than average percentage of PhD students report [mental health problems](https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/)). It's hard to explain to someone who hasn't experienced it, but in academia, you are constantly competing and being judged, with infrequent and irregular positive feedback. In addition, the power structures are ripe for abuse; in many ways, you're completely dependent on your advisor, so if they're not supportive, you're probably going to suffer (this luckily hasn't been the case for me!).
 - You might not get an academic job. This is less of a concern in information science, computer science, and related disciplines, but it's still a very real risk, especially if you have any constraints like needing to be in a particular location.
 
 ### Where should I apply?
@@ -79,7 +79,7 @@ I can't speak for David on these questions, but he has a [helpful page](https://
 
 ### What's it like living in Ithaca?
 
-There are pros and cons. It's a beautiful college town that's very walkable and has great public transportation, cute cafes and restaurants, and lots of nearby hiking, waterfalls, and farms. However, the winters are long, dark, and cold, and Ithaca is 4.5 hours from NYC, 5 hours from Montreal, and 4.5 hours from Toronto; we're in the middle of nowhere. We have a small airport and buslines that go to NYC and other cities, but it can feel isolating. On the other hand, because Ithaca is so small, you'll see your friend and coworkers all the time. I often feel like I'm like living in a *Friends* episode, with people coming and going all the time! 
+There are pros and cons. It's a beautiful college town that's very walkable and has great public transportation, cute cafes and restaurants, and lots of nearby hiking, waterfalls, and farms. However, the winters are long, dark, and cold, and Ithaca is 4.5 hours from NYC, 5 hours from Montreal, and 4.5 hours from Toronto; we're in the middle of nowhere. We have a small airport and bus lines that go to NYC and other cities, but it can feel isolating. On the other hand, because Ithaca is so small, you'll see your friend and coworkers all the time. I often feel like I'm like living in a *Friends* episode, with people coming and going all the time! 
 
 ### Are you happy with your decision to go to Cornell?
 
@@ -95,7 +95,7 @@ Your statement of purpose should answer these questions:
 - Why do you want to do a PhD?
 - What research topics are you interested in? Are you familiar with the current state of that field?
 - What research (or similar work) have you done in the past? Which parts of those projects did you own? Did you come up with the ideas?
-- Will you make it through a PhD program? Do you have perserverance, and can you work on your own?
+- Will you make it through a PhD program? Do you have perseverance, and can you work on your own?
 - Why are you applying to Cornell? Which faculty are you interested in working with and why? (This can be just a few sentences total.)
 
 Different people evaluate statements differently, but I also think your writing style is important. You want to convey excitement and originality, while being very specific about what you want to do, what you've done, and how you view your research area.
@@ -106,11 +106,11 @@ I highly recommend this [writing guide](https://career.berkeley.edu/Grad/GradSta
 
 ### Curriculum Vitae
 
-Your CV should be easy to read and should include your academic qualifications, your work experience, and your research experience and publications. You can also list class projects and unpublished work; just indicate clearly that they are unpublished or under review. Unlike in industry, it's 100% fine if it's longer than one page. If you're applying from outside the U.S., it might be worthwile checking out some CVs of PhD students in the groups you're applying to, so that you get an idea of the CV norms. For example, you don't need to include a photo on your CV. This resource is more industry-focused, but I like [these tips](https://www.askamanager.org/2018/06/how-to-write-a-resume-that-doesnt-suck.html) from Ask a Manager.
+Your CV should be easy to read and should include your academic qualifications, your work experience, and your research experience and publications. You can also list class projects and unpublished work; just indicate clearly that they are unpublished or under review. Unlike in industry, it's 100% fine if it's longer than one page. If you're applying from outside the U.S., it might be worthwhile checking out some CVs of PhD students in the groups you're applying to, so that you get an idea of the CV norms. For example, you don't need to include a photo on your CV. This resource is more industry-focused, but I like [these tips](https://www.askamanager.org/2018/06/how-to-write-a-resume-that-doesnt-suck.html) from Ask a Manager.
 
 ### Letters of Reference
 
-Since I'm not a professor, I don't have as much experience reading and writing these. However, my impression is that these letters are very important. If you're still a student or are planning to apply not this year but in the future, it would be smart to start thinking now about who your letter writers could be or where you could find letter writers. I think it's ok to ask people in industry (I had at least one industry letter), but they should be familar with your work and ideally have worked with you on research.
+Since I'm not a professor, I don't have as much experience reading and writing these. However, my impression is that these letters are very important. If you're still a student or are planning to apply not this year but in the future, it would be smart to start thinking now about who your letter writers could be or where you could find letter writers. I think it's ok to ask people in industry (I had at least one industry letter), but they should be familiar with your work and ideally have worked with you on research.
 
 <br>
 
@@ -139,7 +139,7 @@ If you find yourself talking to a reliable and sympathetic student, here are som
 
 ### Choosing Between Programs
 
-Ultimately, you have to follow your heart. You're only going to get one PhD (hopefully), and it's a huge commitment of time, energy, and money. You don't want to have any regrets, so while it's good to ask others for advice, it's ulimately up to you! 
+Ultimately, you have to follow your heart. You're only going to get one PhD (hopefully), and it's a huge commitment of time, energy, and money. You don't want to have any regrets, so while it's good to ask others for advice, it's ultimately up to you! 
 
 When I was deciding between programs, I found this video about making [hard choices](https://www.ted.com/talks/ruth_chang_how_to_make_hard_choices?language=en) very helpful. In a nutshell, when faced with equally good options, you can consider such a choice as an opportunity for self definition. What kind of person do you want to be? The kind of person who went to University A? Or University B?
 
