@@ -10,11 +10,13 @@ date:   2020-11-27
 
 Every fall I get a flurry of emails asking about PhD applications. Sometimes people are interested in the general application process, and sometimes they have specific questions about Cornell. But since these questions tend to be similar, I'm writing out my answers here to save myself time in the future!
 
-### Why am I qualified to answer these questions, and what are my biases? 
+### What's my background, and what do I know about PhD applications? 
 
-I'm currently a PhD candidate in Information Science at Cornell University, where I work with David Mimno in natural language processing, cultural analytics, data science, and computational social science. At Cornell IS, the PhD students are heavily involved in the applications process, and I've reviewed applications for the past four years (reviewed materials, conducted interviews, observed faculty feedback). I worked in industry and got a master's degree before starting my PhD, and I applied to PhD programs in NLP in 2015. 
+I'm currently a PhD candidate in Information Science at Cornell University, where I work with David Mimno in natural language processing, cultural analytics, and computational social science. At Cornell IS, the PhD students are heavily involved in the applications process, and I've reviewed applications for the past four years (reviewed materials, conducted interviews, observed faculty feedback). I worked in industry and got a master's degree before starting my PhD, and I applied to PhD programs in NLP in 2015. 
 
 My answers will be tailored to my subject areas, so I wouldn't rely on these tips for other fields. Applications were competitive when I applied, but they've become much more competitive since, especially in NLP and ML. I applied mostly to programs in the U.S. and one program in the U.K., so I can't advise on the application process in other countries, and I'm from the U.S., so I can't advise on immigration questions.
+
+I'm sure that faculty can offer more advice about PhD applications, since they actually make the decisions and recruit students, but I hope that my perspective as a graduate student is helpful. In any case, people often ask me these questions, so here are my answers! :)
 
 <br>
 
