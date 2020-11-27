@@ -73,7 +73,7 @@ Other than my advisor and the larger NLP research group, my main motivation in c
 
 ### What's it like working with David Mimno?
 
-David is an excellent advisor, and I'm incredibly lucky to work with him. I would describe his advising style as hands-off but very present and supportive. 
+David is an excellent advisor, and I'm *incredibly* lucky to work with him. I would describe his advising style as hands-off but very present and supportive.
 
 ### What is David looking for in an applicant? Is David taking students this year?
 
