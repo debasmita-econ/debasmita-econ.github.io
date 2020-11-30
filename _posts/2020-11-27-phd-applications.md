@@ -158,6 +158,8 @@ Here are some practical factors I would consider:
 
 ## More Resources
 
+One of the reasons I put this FAQ together is because similar blog posts helped me *a lot* when I was applying to PhD programs. There are tons of resources out there, but personal and domain-specific resources were the most helpful for me.
+
 Here is some more advice on PhD applications that might be helpful.
 
 - [PhD Application Tips](https://www.youtube.com/watch?v=dAk3pEa4OZs) by Casey Fiesler 
