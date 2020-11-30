@@ -138,7 +138,7 @@ Some tips for the visit days:
 
 If you find yourself talking to a reliable and sympathetic student, here are some questions I might ask them:
 - Do you know Potential Advisor X? How do they treat their students? Are they nice? Do their students seem to have a good work life balance? Do they seem happy? Is there anything I should know about Potential Advisor X?
-- Do you like the other students? Do you feel safe? Does the department have any sexual harassment problems? Race-based harassment? How are students with disabilities treated?
+- Do you like the other students? Do you feel safe? Does the department have any sexual harassment problems? Racial harassment and bias? How are students with disabilities treated?
 - How much does your apartment cost? What neighborhood do you live in? Are most students able to find summer funding? Is it ok to do internships? Are you stressed about funding?
 - Do most students pass their qualifying exams the first time? How many years do most students take to graduate?
 - Do you have the technical equipment and office space that you need?
