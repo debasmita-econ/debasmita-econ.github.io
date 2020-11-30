@@ -150,7 +150,7 @@ Ultimately, you have to follow your heart. You're only going to do one PhD (hope
 When I was deciding between programs, I found this video about making [hard choices](https://www.ted.com/talks/ruth_chang_how_to_make_hard_choices?language=en) very helpful. In a nutshell, when faced with equally good options, you can consider such a choice as an opportunity for self definition. What kind of person do you want to be? The kind of person who went to University A? Or University B?
 
 Here are some practical factors I would consider:
-- Advisor. This is the most important. Who do you want to work with? Are they kind and supportive? 
+- Advisor. This is the most important. With whom do you want to work? Are they kind and supportive? 
 - Back up advisor. Sometimes professors leave academia for industry, retire, get sick, etc. They're human and these things happen more often than you might expect! Or you might not click with your original advisor, or something else might happen. If there isn't anyone else to work with, you'll face some difficult decisions about whether to continue. I've seen this happen more than a few times, and I strongly recommend going somewhere with multiple faculty in your area.
 - Location. Be honest with yourself about where you'll be healthiest and happiest. In addition, different countries have different timelines and systems, e.g., Europe has 3 year PhD programs while most US programs take at least 5 years.
 - Money. Did one of the programs offer you a fellowship? What is the cost of living in that area? 
