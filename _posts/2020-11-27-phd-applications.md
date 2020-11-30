@@ -63,6 +63,12 @@ I personally recommend working in industry (or traveling or teaching or making a
 
 And just to make this plain: you're not too old, it's not too late, and you should apply!
 
+### I'm thinking of applying to PhD programs in a few years. What should I do now to prepare?
+
+The best thing you can do is get research experience. Whether this is through an internship, an industry position, or academic experience during undergrad or a master's program, doing research will help you both (a) understand whether research is something you want to do full time and (b) strengthen your application. It will also help you find letter writers who are familiar with your work in a research setting. 
+
+My own path involved getting a master's degree and working in industry before applying to PhD programs. I did research with a professor during my master's and also wrote a master's thesis on my own project. These experiences shaped my application and interests and serendipitously led to my current work at Cornell.
+
 <br>
 
 ## Cornell Questions
