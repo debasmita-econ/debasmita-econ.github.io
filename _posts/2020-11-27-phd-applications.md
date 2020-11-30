@@ -10,6 +10,8 @@ date:   2020-11-27
 
 Every fall I get a flurry of emails asking about PhD applications. Sometimes people are interested in the general application process, and sometimes they have specific questions about Cornell. But since these questions tend to be similar, I'm writing out my answers here to save myself time in the future!
 
+One of the reasons I put this FAQ together is because similar blog posts helped me *a lot* when I was applying to PhD programs. There are tons of resources out there, but personal and domain-specific resources were the most helpful for me.
+
 ### What's my background, and what do I know about PhD applications? 
 
 I'm currently a PhD candidate in Information Science at Cornell University, where I work with David Mimno in natural language processing, cultural analytics, and computational social science. At Cornell IS, the PhD students are heavily involved in the applications process, and I've reviewed applications for the past four years (reviewed materials, conducted interviews, observed faculty feedback). I worked in industry and got a master's degree before starting my PhD, and I applied to PhD programs in NLP in 2015. 
@@ -157,8 +159,6 @@ Here are some practical factors I would consider:
 <br>
 
 ## More Resources
-
-One of the reasons I put this FAQ together is because similar blog posts helped me *a lot* when I was applying to PhD programs. There are tons of resources out there, but personal and domain-specific resources were the most helpful for me.
 
 Here is some more advice on PhD applications that might be helpful.
 
