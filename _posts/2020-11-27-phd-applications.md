@@ -45,7 +45,7 @@ This is such a hard question, and no one can answer it for you. I think that if 
 
 ### Where should I apply?
 
-Focus on advisors, not universities. Your advisor will determine the majority of your experience, so I would recommend looking around for specific faculty whose work you find interesting. Ask friend or colleagues if they have recommendations for potential advisors, start following people on Twitter, and pay attention to the authors of papers that you like. Don't worry about university rankings (these often don't make sense after undergrad). I was given this advice by many people when I was applying, and I'm grateful that I followed it (even without really understanding why at the time).
+Focus on advisors, not universities. Your advisor will determine the majority of your experience, so I would recommend looking around for specific faculty whose work you find interesting. Ask friends or colleagues if they have recommendations for potential advisors, start following people on Twitter, and pay attention to the authors of papers that you like. Don't worry about university rankings (these often don't make sense after undergrad). I was given this advice by many people when I was applying, and I'm grateful that I followed it (even without really understanding why at the time).
 
 If possible, apply widely (I think I applied to about 7-10 programs) and keep your mind open at this stage. There will be plenty of time to select between your options later, and until you start talking to people at different programs, it can be hard to tell from the outside which are the most exciting opportunities. If cost is a barrier, most universities have fee-waiver programs that you shouldn't hesitate to use.
 
