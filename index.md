@@ -80,6 +80,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 * I'm the current President of [Grads for Gender Inclusion in Computing](https://gsgic.org/) at Cornell. 
 * I'm the current Webmaster (and former Social Chair and Treasurer) of [Graduate Women in Science](https://gwiscornell.wordpress.com/) at Cornell.
 * In undergrad, I studied in the [Program of Liberal Studies](https://pls.nd.edu/), a reading-oriented set of tutorials and seminars, at the University of Notre Dame. I'm always happy to talk to students who are interested in transitioning from the humanities to technology.
+* No relation (as far as I know) to [the other Antoniak](https://www.semanticscholar.org/author/C.-Antoniak/16645877) interested in the Dirichlet distribution.
 * [books books books](https://maria-antoniak.github.io/reading)
 
 
