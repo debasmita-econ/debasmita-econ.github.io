@@ -4,9 +4,13 @@ layout: default
 
 <br>
 
+**Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing**  
+Maria Antoniak, Melanie Walsh, and David Mimno  
+CSCW (2021)  
+
 **The Goodreads “Classics”: A Computational Study of Readers, Amazon, and Crowdsourced Literary Criticism**  
 Melanie Walsh and Maria Antoniak  
-Post45 x Cultural Analytics (2020)  
+Post45 x Cultural Analytics (2021)  
 
 **Imagined examples of painful experiences provided by chronic low back pain patients and attributed a pain numerical rating score**  
 Robert Stewart Griffin, Maria Antoniak, Phuong Dinh Mac, Vladimir Kramskiy, Seth Waldman, David Mimno  
