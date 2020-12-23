@@ -46,6 +46,10 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 <table style="width:100%">
   <tr>
+    <td width="15%">Dec 2020</td>
+    <td>Papers on Goodreads and LibraryThing book reviews accepted to CSCW and Cultural Anlytics - more info soon.</td>
+  </tr>
+  <tr>
     <td width="15%">Fall 2020</td>
     <td>TAing <a href="https://github.com/wilkens-teaching/info3350-f20">INFO 3350: Text Mining for History and Literature</a> with <a href="https://mattwilkens.com/">Matthew Wilkens</a></td>
   </tr>
