@@ -6,7 +6,8 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="me.png">
+<img src="me_banner.jpg">
+<!-- <img class="profile-picture" src="me.png"> -->
 
 I'm a researcher and data scientist working in natural language processing, computational social science, and cultural analytics. I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on healthcare support or cultural objects like books or games. My research relies on unsupervised machine learning methods and re-explores the reliability and evaluation of these methods when applied to small, topic-focused datasets. 
 
