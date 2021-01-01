@@ -25,8 +25,16 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
 
 #### Previous Education
 
-MS, Computational Linguistics, University of Washington  
-BA, Program of Liberal Studies, University of Notre Dame  
+<table style="width:100%">
+  <tr>
+    <td width="25%">2013-2014</td>
+    <td>MS, Computational Linguistics, University of Washington</td>
+  </tr>
+  <tr>
+    <td width="25%">2007-2011</td>
+    <td>BA, Program of Liberal Studies, University of Notre Dame</td>
+  </tr>
+</table>
 
 <br>
 
