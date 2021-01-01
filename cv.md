@@ -12,11 +12,11 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
 
 <table style="width:100%">
   <tr>
-    <td width="10%">2016 - Present</td>
+    <td width="20%">2016 - Present</td>
     <td>PhD Candidate, Information Science, Cornell University</td>
   </tr>
   <tr>
-    <td width="10%">Summer 2020 - Present</td>
+    <td width="20%">Summer 2020 - Present</td>
     <td>Intern, Microsoft Research Montreal, FATE</td>
   </tr>
 </table>
@@ -28,14 +28,29 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
 MS, Computational Linguistics, University of Washington  
 BA, Program of Liberal Studies, University of Notre Dame  
 
-</table>
-
 <br><br>
 
 #### Previous Work
 
-Summer 2019 Intern, Facebook Core Data Science  
-Summer 2018 Intern, Microsoft Research  
-2014-2016 Data Scientist, Maana  
-Summer-Fall 2014 Intern, Pacific Northwest National Laboratory  
-Summer 2013 Intern, Pacific Northwest National Laboratory  
+<table style="width:100%">
+  <tr>
+    <td width="20%">Summer 2019</td>
+    <td>Intern, Facebook Core Data Science</td>
+  </tr>
+  <tr>
+    <td width="20%">Summer 2018</td>
+    <td>Intern, Microsoft Research</td>
+  </tr>
+  <tr>
+    <td width="20%">2014-2016</td>
+    <td>Data Scientist, Maana </td>
+  </tr>
+  <tr>
+    <td width="20%">Summer-Fall 2014</td>
+    <td>Intern, Pacific Northwest National Laboratory</td>
+  </tr>
+  <tr>
+    <td width="20%">Summer 2013</td>
+    <td> Intern, Pacific Northwest National Laboratory</td>
+  </tr>
+</table>
