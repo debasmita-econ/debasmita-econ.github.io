@@ -12,11 +12,11 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
 
 <table style="width:100%">
   <tr>
-    <td width="20%">2016 - Present</td>
+    <td width="30%">2016 - Present</td>
     <td>PhD Candidate, Information Science, Cornell University</td>
   </tr>
   <tr>
-    <td width="20%">Summer 2020 - Present</td>
+    <td width="30%">Summer 2020 - Present</td>
     <td>Intern, Microsoft Research Montreal, FATE</td>
   </tr>
 </table>
@@ -34,23 +34,23 @@ BA, Program of Liberal Studies, University of Notre Dame
 
 <table style="width:100%">
   <tr>
-    <td width="20%">Summer 2019</td>
+    <td width="30%">Summer 2019</td>
     <td>Intern, Facebook Core Data Science</td>
   </tr>
   <tr>
-    <td width="20%">Summer 2018</td>
+    <td width="30%">Summer 2018</td>
     <td>Intern, Microsoft Research</td>
   </tr>
   <tr>
-    <td width="20%">2014-2016</td>
+    <td width="30%">2014-2016</td>
     <td>Data Scientist, Maana </td>
   </tr>
   <tr>
-    <td width="20%">Summer-Fall 2014</td>
+    <td width="30%">Summer-Fall 2014</td>
     <td>Intern, Pacific Northwest National Laboratory</td>
   </tr>
   <tr>
-    <td width="20%">Summer 2013</td>
+    <td width="30%">Summer 2013</td>
     <td> Intern, Pacific Northwest National Laboratory</td>
   </tr>
 </table>
