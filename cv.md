@@ -11,7 +11,7 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
 #### Current
 
 PhD Candidate, [Information Science](http://infosci.cornell.edu/) Cornell University  
-Intern, Microsoft Research Montreal, [FATE](https://www.microsoft.com/en-us/research/group/fate/)  
+Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/), [FATE](https://www.microsoft.com/en-us/research/group/fate/)  
 
 <br>
 
@@ -25,7 +25,7 @@ BA, [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
 #### Previous Work
 
 Intern, [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
-Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/)  
+Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/), [Healthcare NExT](https://www.microsoft.com/en-us/research/research-area/medical-health-genomics)  
 Data Scientist, [Maana](https://www.maana.io/)  
 Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)  
 
