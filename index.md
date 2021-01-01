@@ -21,7 +21,7 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 <table style="width:100%">
   <tr>
     <td width="10%">Dec 2020</td>
-    <td>Papers on Goodreads and LibraryThing book reviews accepted to CSCW and Cultural Anlytics.</td>
+    <td>Papers on Goodreads and LibraryThing book reviews accepted to CSCW and Cultural Analytics.</td>
   </tr>
   <tr>
     <td width="10%">Fall 2020</td>
