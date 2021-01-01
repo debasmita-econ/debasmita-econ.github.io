@@ -6,6 +6,8 @@ layout: default
 
 <img src="me_banner.jpg">
 
+<br>
+
 ## About
 
 <!-- <img class="profile-picture" src="me.png"> -->
