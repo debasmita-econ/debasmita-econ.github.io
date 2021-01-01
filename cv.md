@@ -25,7 +25,7 @@ BA, [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
 #### Previous Work
 
 Intern, [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
-Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/), [Healthcare NExT](https://www.microsoft.com/en-us/research/research-area/medical-health-genomics)  
+Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/), [EmpowerMD](https://www.microsoft.com/en-us/research/project/empowermd/)  
 Data Scientist, [Maana](https://www.maana.io/)  
 Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)  
 
