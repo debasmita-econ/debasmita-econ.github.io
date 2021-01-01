@@ -17,7 +17,7 @@ Robert Stewart Griffin, Maria Antoniak, Phuong Dinh Mac, Vladimir Kramskiy, Seth
 Frontiers in Neuroscience (2019)  
 [[PDF](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf)]
 
-[Narrative Paths and Negotiation of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf) 
+[Narrative Paths and Negotiation of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)  
 Maria Antoniak, David Mimno, and Karen Levy  
 CSCW (2019)  
 [[PDF](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)] [[Slides](https://maria-antoniak.github.io/resources/2019_11_12_cscw_birth_stories_presentation.pdf)]  [[Blog](https://maria-antoniak.github.io/2019/11/04/computational-reading-birth-stories.html)] [[Press](http://news.cornell.edu/stories/2019/11/online-birth-stories-reveal-power-imbalances)] [[Code](https://github.com/maria-antoniak/little-mallet-wrapper)]   
