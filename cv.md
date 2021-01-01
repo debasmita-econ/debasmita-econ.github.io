@@ -19,6 +19,7 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
     <td width="10%">Summer 2020 - Present</td>
     <td>Intern, Microsoft Research Montreal, FATE</td>
   </tr>
+</table>
 
 <br><br>
 
