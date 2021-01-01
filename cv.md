@@ -10,6 +10,27 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
 
 #### Current
 
+PhD Candidate, [Information Science](http://infosci.cornell.edu/) Cornell University  
+Intern, Microsoft Research Montreal, [FATE](https://www.microsoft.com/en-us/research/group/fate/)  
+
+<br>
+
+#### Previous Education
+
+MS, [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
+BA, [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame  
+
+<br>
+
+#### Previous Work
+
+Intern, [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
+Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/)  
+Data Scientist, [Maana](https://www.maana.io/)  
+Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)  
+
+<!-- #### Current
+
 <table style="width:100%">
   <tr>
     <td width="25%">2016 - Present</td>
@@ -61,4 +82,4 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
     <td width="25%">Summer 2013</td>
     <td>Intern, <a href="https://www.pnl.gov/">Pacific Northwest National Laboratory</a></td>
   </tr>
-</table>
+</table> -->
