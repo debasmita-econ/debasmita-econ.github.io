@@ -27,6 +27,8 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: $accent;
+    text-underline-offset: 3px;
 }
 hr {
     border: 0;
