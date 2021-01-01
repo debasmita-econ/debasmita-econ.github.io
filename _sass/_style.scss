@@ -20,9 +20,10 @@ body {
 // }
 a {
     text-decoration: underline;
-    color: $accent;
+    // color: $accent;
     // font-weight: bold;
     text-underline-offset: 2px;
+    text-decoration-color: $accent;
 }
 a:hover {
     text-decoration: underline;
