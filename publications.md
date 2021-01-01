@@ -4,11 +4,11 @@ layout: default
 
 <br>
 
-[Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing]()  
+### [Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing]()  
 *Maria Antoniak*, Melanie Walsh, and David Mimno  
 CSCW (2021) (to appear)  
 
-[The Goodreads “Classics”: A Computational Study of Readers, Amazon, and Crowdsourced Literary Criticism]()    
+## [The Goodreads “Classics”: A Computational Study of Readers, Amazon, and Crowdsourced Literary Criticism]()    
 Melanie Walsh and *Maria Antoniak*  
 Post45 x Cultural Analytics (2021) (to appear)   
 
