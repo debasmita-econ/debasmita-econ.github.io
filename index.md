@@ -14,32 +14,6 @@ My past work has examined how postpartum people frame their [birth experiences](
 
 I'm currently a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, where I'm advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have a master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
 
-<!-- * PhD Candidate in [Information Science](http://infosci.cornell.edu/), Cornell University
-* Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
-* Minor in [Computer Science](https://www.cs.cornell.edu/) -->
-
-<!-- <br> -->
-
-<!-- ## Research Interests
-
-Natural language processing, unsupervised machine learning, digital humanities, healthcare, computational social science.
-
-<br>
-
-## Education
-
-* MS in [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
-* BA in [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
-
-<br>
-
-## Industry
-
-* Intern, [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
-* Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/)
-* Data Scientist, [Maana](https://www.maana.io/)
-* Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/) -->
-
 <br> 
 
 ## News
