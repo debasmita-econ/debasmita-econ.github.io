@@ -8,18 +8,21 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
 
 <br><br>
 
-## Current
+### Current
 
-2016 - Present PhD Candidate, Information Science, Cornell University
-Summer 2020 - Present Intern, Microsoft Research Montreal, FATE
+2016 - Present PhD Candidate, Information Science, Cornell University  
+Summer 2020 - Present Intern, Microsoft Research Montreal, FATE  
 
-## Previous Work
+<br><br>
 
-Summer 2019 Intern, Facebook Core Data Science (2019)
-Summer 2018 Intern, Microsoft Research
+### Previous Work
 
+Summer 2019 Intern, Facebook Core Data Science (2019)  
+Summer 2018 Intern, Microsoft Research  
 
-## Previous Education
+<br><br>
 
-MS, Computational Linguistics, University of Washington
-BA, Program of Liberal Studies, University of Notre Dame
+### Previous Education
+
+MS, Computational Linguistics, University of Washington  
+BA, Program of Liberal Studies, University of Notre Dame  
