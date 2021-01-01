@@ -29,6 +29,8 @@ Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/), [Empowe
 Data Scientist, [Maana](https://www.maana.io/)  
 Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)  
 
+<br><br>
+
 <!-- #### Current
 
 <table style="width:100%">
