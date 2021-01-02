@@ -8,21 +8,21 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
 
 <br>
 
-#### Current
+### Current
 
 PhD Candidate, [Information Science](http://infosci.cornell.edu/) Cornell University  
 Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/), [FATE](https://www.microsoft.com/en-us/research/group/fate/)  
 
 <br>
 
-#### Previous Education
+### Previous Education
 
 MS, [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
 BA, [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame  
 
 <br>
 
-#### Previous Work
+### Previous Work
 
 Intern, [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
 Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/), [EmpowerMD](https://www.microsoft.com/en-us/research/project/empowermd/)  
