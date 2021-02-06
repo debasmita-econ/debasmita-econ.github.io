@@ -77,7 +77,7 @@ No offline access to papers. Only runs in Chrome. Buggy.
 
 Are.na is a Pinterest competitor that advocates for a healthier, "slower" vision of the internet. I've used Pinterest for years, but Are.na has a much lovelier, more minimal UI and is subscription-based instead of using advertising and your data for revenue. There are no ads, likes, or recommendations. I just love everything about this company.
 
-![alt text](https://maria-antoniak.github.io/resources/images/arena.png "Are.na screenshot")
+![alt text](https://maria-antoniak.github.io/resources/images/arena_academia.png "Are.na screenshot")
 
 For example, I maintain an [Advice for Academia](https://www.are.na/maria-antoniak/advice-for-academia) channel with articles and information about how to survive and succeed during and after the PhD. It's a quick and easy way to visually gather and share information.
 
