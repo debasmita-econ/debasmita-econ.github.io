@@ -12,7 +12,7 @@ As usual, with the new year, I'm re-thinking how I organize my life. I love orga
 
 I've made some big changes from 2020. I'm no longer using Evernote (!), Things3, or Coda, and I've started using Notion and Dropbox. In general, my priorities are speed, functionality (especially the ability to customize and link different resources), aesthetics, and supporting creative and ethical companies.
 
-**Disclaimer:** I deeply enjoy organizing things, and I find this process relaxing and calming. This is just the way that I personally cope with all the many tasks and papers and people in my work life. Especially in the last year, "productivity" might not be a healthy goal for lots of people. For me, these apps are a fun distraction from the 2020 chaos, but that is probably not true for everyone. I like sharing what I use and how I organize things because I learn a lot from other people who share their workflows. We all have to find our own methods for dealing with work, and I hope my workflow will give you some inspiration.
+**Disclaimer:** I deeply enjoy organizing things, and I find this process relaxing and calming. This is just the way that I personally cope with all the many tasks and papers and people in my work life. Especially in the last year, "productivity" might not be a healthy goal for lots of people. For me, these apps are a fun distraction from the 2020 chaos, but that is probably not true for everyone. I like sharing what I use and how I organize things because I learn a lot from other people who share their workflows. We all have to find our own methods for dealing with work. Take what works for you, leave what doesn't!
 
 <br>
 
