@@ -37,7 +37,7 @@ Some of my Notion pages include:
 - a list of my accomplishments by year (maybe sounds silly, but it's a list of happy things that helps me when I'm feeling discouraged)
 - a "commonplace book" for quotations and interesting tidbits that don't fit elsewhere
 
-Here's a look at one of my references databases:
+Here's a look at one of my references databases. You can sort, filter, link, and view these databases in different formats.
 
 ![alt text](https://maria-antoniak.github.io/resources/images/notion_references.png "References screenshot")
 
