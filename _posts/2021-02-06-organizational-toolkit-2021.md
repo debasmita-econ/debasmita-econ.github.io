@@ -95,6 +95,8 @@ None.
 
 This one is a huge surprise to me. I haven't used Dropbox for years, instead relying on Google Drive for all my shared documents and cloud storage. Katherine Lee suggested I try it out, and I'm so glad she did! The improvements from 10 years ago (ha!) are huge, and their new collaborative documents, called Paper, are far faster and more beautiful and functional than Google Docs.
 
+![alt text](https://maria-antoniak.github.io/resources/images/dropbox_paper.jpg "Dropbox Paper screenshot")
+
 I've been using Dropbox for most of my collaborations for the past few months. Anything that I want to share with my collaborators (data, project overviews, meeting notes, etc.), I put into a shared Dropbox folder. This is definitely still an experiment, and one downside for me is that I end up with duplicate notes in Notion and Dropbox, but so far, I'm really appreciating this new-to-me tool.
 
 ### Pros
