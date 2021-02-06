@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-**[Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing]()**  
+**[Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)**  
 Maria Antoniak, Melanie Walsh, and David Mimno  
 CSCW (2021)  
 [[PDF](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)] [[Data](https://github.com/maria-antoniak/librarything-genres)]
