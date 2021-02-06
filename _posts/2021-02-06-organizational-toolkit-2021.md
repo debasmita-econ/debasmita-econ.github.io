@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Organizational Toolkit"
+title:  "My Organizational Toolkit: Updates for 2021"
 date:   2021-02-06
 ---
 
@@ -8,17 +8,17 @@ date:   2021-02-06
 
 # My Organizational Toolkit: Updates for 2021
 
-As usual, with the new year, I'm re-thinking how I organize my life. I love organization and productivity tools, and while I try not switch between tools too often, there's always a temptation to optimize my workflow a bit more.
+As usual, with the new year, I'm re-thinking how I organize my life. I love organization and productivity tools, and while I try not switch between tools too often, there's always a temptation to optimize my workflow a bit more. You can check out last year's workflow [here](https://maria-antoniak.github.io/2020/01/01/organizational-toolkit.html). 
 
-You can check out last year's workflow [here](https://maria-antoniak.github.io/2020/01/01/organizational-toolkit.html). I've made some big changes from 2020! I'm no longer using Evernote (!), Things3, or Coda, and I've started using Notion and Dropbox.
+I've made some big changes from 2020. I'm no longer using Evernote (!), Things3, or Coda, and I've started using Notion and Dropbox.
 
 <br>
 
 ## Notion
 
-![alt text](https://maria-antoniak.github.io/resources/images/notion_dashboard.png "Notion screenshot")
-
 The biggest change to my workflow in 2021 is that I've *finally* made the switch to Notion. And I'm obsessed!
+
+![alt text](https://maria-antoniak.github.io/resources/images/notion_dashboard.png "Notion screenshot")
 
 I've used Evernote for 10 years and have relied on Things3 for my to do lists for three years. I love both of those applications, but I've found that Notion can combine their functionality and is more effective for me. I still have a lot stored in Evernote (the auto import to Notion is very broken), but I'm slowly moving everything to Notion.
 
@@ -37,7 +37,11 @@ Some of my Notion pages include:
 - a list of my accomplishments by year (maybe sounds silly, but it's a list of happy things that helps me when I'm feeling discouraged)
 - a "commonplace book" for quotations and interesting tidbits that don't fit elsewhere
 
-If that all sounds intimidating or you're not sure where to get started, there are *so many* great YouTube tutorials on how to set things up.
+Here's a look at one of my references databases:
+
+![alt text](https://maria-antoniak.github.io/resources/images/notion_references.png "References screenshot")
+
+If that all sounds intimidating or you're not sure where to get started, there are tons of YouTube tutorials sharing inspiration and how to use different templates.
 
 ### Pros
 Free. Functional. Beautiful. Has actually made me more productive (mostly because of the to do list linked to my dashboard). Can easily export tables to CSV and notes to Markdown.
@@ -49,13 +53,11 @@ Privacy is a potential concern (no encryption). There are some very minor UI cha
 
 ## Paperpile
 
-![alt text](https://maria-antoniak.github.io/resources/images/paperpile.png "Paperpile screenshot")
-
 I'd still agree with [my previous assessment](https://maria-antoniak.github.io/2020/01/01/organizational-toolkit.html) that there is no perfect solution to paper management, and I still use Paperpile as the best available option. I'm increasingly annoyed with being tied to Chrome, and I wish the UI would get some updates (it looks cluttered to me). But I don't know of anything better, and I want to keep supporting this competitor to Mendeley. 
 
-As before, I use Paperpile for management of PDFs, but I keep a separate spreadsheet to organize references for specific projects. For each new project, I create a Notion database (formely a Google Sheet) where each row is a relevant paper and the columns include the title, authors, publication year, publication venue, topic, subtopic, and notes. 
+![alt text](https://maria-antoniak.github.io/resources/images/paperpile.png "Paperpile screenshot")
 
-![alt text](https://maria-antoniak.github.io/resources/images/notion_references.png "References screenshot")
+As before, I use Paperpile for management of PDFs, but I keep a separate spreadsheet to organize references for specific projects. For each new project, I create a Notion database (formely a Google Sheet) where each row is a relevant paper and the columns include the title, authors, publication year, publication venue, topic, subtopic, and notes. 
 
 I've also started using Are.na (see below) for my first round of gathering papers. It's the quickest way to gather papers, and then they're arranged visually in a nice board. I like to use this as a filter before adding things to Paperpile because otherwise, papers get lots in Paperpile and I forget to read them.
 
@@ -71,11 +73,11 @@ No offline access to papers. Only runs in Chrome. Buggy.
 
 ## Are.na
 
-![alt text](https://maria-antoniak.github.io/resources/images/arena.png "Are.na screenshot")
-
 (Mostly the same as last year, but with increased love! This is my favorite social/creative website by far.)
 
 Are.na is a Pinterest competitor that advocates for a healthier, "slower" vision of the internet. I've used Pinterest for years, but Are.na has a much lovelier, more minimal UI and is subscription-based instead of using advertising and your data for revenue. There are no ads, likes, or recommendations. I just love everything about this company.
+
+![alt text](https://maria-antoniak.github.io/resources/images/arena.png "Are.na screenshot")
 
 For example, I maintain an [Advice for Academia](https://www.are.na/maria-antoniak/advice-for-academia) channel with articles and information about how to survive and succeed during and after the PhD. It's a quick and easy way to visually gather and share information.
 
