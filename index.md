@@ -25,7 +25,7 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 <table style="width:100%">
   <tr>
     <td width="15%">Dec 2020</td>
-    <td>Papers on Goodreads and [LibraryThing](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf) book reviews accepted to Cultural Analytics and CSCW</td>
+    <td>Papers on Goodreads and <a href="https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf">LibraryThing</a> book reviews accepted to Cultural Analytics and CSCW</td>
   </tr>
   <tr>
     <td width="15%">Fall 2020</td>
