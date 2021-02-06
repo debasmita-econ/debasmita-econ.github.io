@@ -59,7 +59,7 @@ I agree with [my previous assessment](https://maria-antoniak.github.io/2020/01/0
 
 As before, I use Paperpile for management of PDFs, but I keep a separate spreadsheet to organize references for specific projects. For each new project, I create a Notion database (formely a Google Sheet) where each row is a relevant paper and the columns include the title, authors, publication year, publication venue, topic, subtopic, and notes. 
 
-I've also started using Are.na (see below) for my first round of gathering papers. It's the quickest way to gather papers, and then they're arranged visually in a nice board. I like to use this as a filter before adding things to Paperpile because otherwise, papers get lots in Paperpile and I forget to read them.
+I've also started using Are.na (see below) for my first round of gathering papers. It's the quickest way to gather papers, and then they're arranged visually in a nice board. I like to use this as a filter before adding things to Paperpile because otherwise, papers get lost in Paperpile and I forget to read them.
 
 As before: this system isn't perfect, and I'm going to keep experimenting and looking for a better solution. But for now, this is working.
 
