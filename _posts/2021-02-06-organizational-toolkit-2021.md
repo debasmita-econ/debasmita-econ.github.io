@@ -14,7 +14,7 @@ I've made some big changes from 2020. I'm no longer using Evernote (!), Things3,
 
 <br>
 
-## Notion
+## [Notion](https://www.notion.so/product)
 
 The biggest change to my workflow in 2021 is that I've *finally* made the switch to Notion. And I'm obsessed!
 
@@ -51,9 +51,9 @@ Privacy is a potential concern (no encryption). There are some very minor UI cha
 
 <br>
 
-## Paperpile
+## [Paperpile](https://paperpile.com)
 
-I'd still agree with [my previous assessment](https://maria-antoniak.github.io/2020/01/01/organizational-toolkit.html) that there is no perfect solution to paper management, and I still use Paperpile as the best available option. I'm increasingly annoyed with being tied to Chrome, and I wish the UI would get some updates (it looks cluttered to me). But I don't know of anything better, and I want to keep supporting this competitor to Mendeley. 
+I agree with [my previous assessment](https://maria-antoniak.github.io/2020/01/01/organizational-toolkit.html) that there is no perfect solution to paper management, and I still use Paperpile as the best available option. I'm increasingly annoyed with being tied to Chrome, and I wish the UI would get some updates (it looks cluttered to me). But I don't know of anything better, and I want to keep supporting this competitor to Mendeley. 
 
 ![alt text](https://maria-antoniak.github.io/resources/images/paperpile.png "Paperpile screenshot")
 
@@ -71,7 +71,7 @@ No offline access to papers. Only runs in Chrome. Buggy.
 
 <br>
 
-## Are.na
+## [Are.na](https://www.are.na/)
 
 (Mostly the same as last year, but with increased love! This is my favorite social/creative website by far.)
 
@@ -91,7 +91,7 @@ None.
 
 <br>
 
-## Dropbox 
+## [Dropbox](https://www.dropbox.com/paper/guide) 
 
 This one is a huge surprise to me. I haven't used Dropbox for years, instead relying on Google Drive for all my shared documents and cloud storage. Katherine Lee suggested I try it out, and I'm so glad she did! The improvements from 10 years ago (ha!) are huge, and their new collaborative documents, called Paper, are far faster and more beautiful and functional than Google Docs.
 
