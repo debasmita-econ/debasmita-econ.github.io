@@ -16,7 +16,7 @@ I've made some big changes from 2020. I'm no longer using Evernote (!), Things3,
 
 ## [Notion](https://www.notion.so/product)
 
-The biggest change to my workflow in 2021 is that I've *finally* made the switch to Notion. And I'm obsessed!
+The biggest change to my workflow in 2021 is that I finally made the switch to Notion. And I'm obsessed!
 
 ![alt text](https://maria-antoniak.github.io/resources/images/notion_dashboard.png "Notion screenshot")
 
