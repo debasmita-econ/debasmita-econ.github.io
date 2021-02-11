@@ -24,6 +24,10 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 
 <table style="width:100%">
   <tr>
+    <td width="15%">Jan 2021</td>
+    <td>Speaking at <a href="https://www.microsoft.com/en-us/research/event/aiandgaming2021/">Microsoft's AI & Gaming Research Summit</a> on self disclosure in online gaming communities.</td>
+  </tr>
+  <tr>
     <td width="15%">Dec 2020</td>
     <td>Papers on Goodreads and <a href="https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf">LibraryThing</a> book reviews accepted to Cultural Analytics and CSCW</td>
   </tr>
@@ -38,10 +42,6 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
   <tr>
     <td width="15%">Jun 2020</td>
     <td>Interning at Microsoft Research Montreal with the <a href="https://www.microsoft.com/en-us/research/group/fate/">FATE</a> team</td>
-  </tr>
-  <tr>
-    <td width="15%">Jan 2020</td>
-    <td>Our <a href="https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf">paper</a> on imagined examples of painful experiences has been published by <i>Frontiers in Neuroscience</i></td>
   </tr>
 </table>
 
