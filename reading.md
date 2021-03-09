@@ -4,6 +4,14 @@ layout: default
 
 <br>
 
+## 2021
+
+* [Les Liaisons Dangereuses](https://bookshop.org/books/dangerous-liaisons-les-liaisons-dangereuses/9781533419576) by Pierre Choderlos de Laclos
+* [Authority](https://bookshop.org/books/authority-9780374104108/9780374104108) by Jeff VanderMeer
+* [Dark Entries](https://bookshop.org/books/dark-entries/9780571311774) by Robert Aikman
+
+<br>
+
 ## 2020
 
 * [Orlando](https://bookshop.org/books/orlando-a-biography/9780156701600) by Virginia Woolf
@@ -25,7 +33,7 @@ layout: default
 * [The Dispossessed](https://bookshop.org/books/the-dispossessed-9780060512750/9780061054884) by Ursula K. Le Guin
 * [Annihilation](https://bookshop.org/books/annihilation-9780374104092/9780374104092) by Jeff VanderMeer
 * [The Spy Who Came in from the Cold](https://bookshop.org/books/the-spy-who-came-in-from-the-cold/9780143124757) by John Le Carré
-* [The Lying Life of Adults]() by Elena Ferrante
+* [The Lying Life of Adults](https://bookshop.org/books/the-lying-life-of-adults/9781609455910) by Elena Ferrante
 
 <br>
 

@@ -24,6 +24,10 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 
 <table style="width:100%">
   <tr>
+    <td width="15%">June 2021</td>
+    <td>Interning at Twitter Applied Research.</td>
+  </tr>
+  <tr>
     <td width="15%">Feb 2021</td>
     <td>Speaking at Microsoft's <a href="https://www.microsoft.com/en-us/research/event/aiandgaming2021/">AI & Gaming Research Summit</a> on self disclosure in online gaming communities.</td>
   </tr>
