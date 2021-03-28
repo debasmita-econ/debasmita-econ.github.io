@@ -9,6 +9,7 @@ layout: default
 * [Les Liaisons Dangereuses](https://bookshop.org/books/dangerous-liaisons-les-liaisons-dangereuses/9781533419576) by Pierre Choderlos de Laclos
 * [Authority](https://bookshop.org/books/authority-9780374104108/9780374104108) by Jeff VanderMeer
 * [Dark Entries](https://bookshop.org/books/dark-entries/9780571311774) by Robert Aikman
+* [Acceptance](https://bookshop.org/books/acceptance-9780374104115/9780374104115) by Jeff VanderMeer  
 
 <br>
 
