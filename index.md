@@ -30,7 +30,7 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
   </tr>
   <tr>
     <td width="15%">Dec 2020</td>
-    <td>Paper on <a href="https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/">Goodreads</a> classics published at Post45 & Cultural Analytics</td>
+    <td>Paper on Goodreads classics published at <a href="https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/">Post45</a> & <a href="https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism">Cultural Analytics</a></td>
   </tr>
   <tr>
     <td width="15%">Feb 2021</td>
