@@ -29,12 +29,16 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
     <td>Interning at Twitter Applied Research.</td>
   </tr>
   <tr>
+    <td width="15%">Dec 2020</td>
+    <td>Paper on <a href="https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/">Goodreads</a> classics published at Post45 & Cultural Analytics</td>
+  </tr>
+  <tr>
     <td width="15%">Feb 2021</td>
     <td>Speaking at Microsoft's <a href="https://www.microsoft.com/en-us/research/event/aiandgaming2021/">AI & Gaming Research Summit</a> on self disclosure in online gaming communities.</td>
   </tr>
   <tr>
     <td width="15%">Dec 2020</td>
-    <td>Papers on Goodreads and <a href="https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf">LibraryThing</a> book reviews accepted to Cultural Analytics and CSCW</td>
+    <td>Papers on <a href="https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf">LibraryThing</a> book reviews accepted to CSCW</td>
   </tr>
   <tr>
     <td width="15%">Fall 2020</td>
