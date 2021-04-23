@@ -7,7 +7,7 @@ layout: default
 **[Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)**  
 Maria Antoniak, Melanie Walsh, and David Mimno  
 CSCW (2021)  
-[[PDF](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)] [[Data](https://github.com/maria-antoniak/librarything-genres)]
+[[PDF](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)] [[ACM Digital Library](https://dl.acm.org/doi/10.1145/3449103)] [[Data](https://github.com/maria-antoniak/librarything-genres)]
 
 **[The Goodreads “Classics”: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://maria-antoniak.github.io/resources/2021_post45_classics.pdf)**    
 Melanie Walsh and Maria Antoniak  
@@ -22,12 +22,12 @@ Frontiers in Neuroscience (2019)
 **[Narrative Paths and Negotiation of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)**  
 Maria Antoniak, David Mimno, and Karen Levy  
 CSCW (2019)  
-[[PDF](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)] [[Slides](https://maria-antoniak.github.io/resources/2019_11_12_cscw_birth_stories_presentation.pdf)]  [[Blog](https://maria-antoniak.github.io/2019/11/04/computational-reading-birth-stories.html)] [[Press](http://news.cornell.edu/stories/2019/11/online-birth-stories-reveal-power-imbalances)] [[Code](https://github.com/maria-antoniak/little-mallet-wrapper)]   
+[[PDF](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)] [[ACM Digital Library](https://dl.acm.org/doi/10.1145/3359190)] [[Slides](https://maria-antoniak.github.io/resources/2019_11_12_cscw_birth_stories_presentation.pdf)]  [[Blog](https://maria-antoniak.github.io/2019/11/04/computational-reading-birth-stories.html)] [[Press](http://news.cornell.edu/stories/2019/11/online-birth-stories-reveal-power-imbalances)] [[Code](https://github.com/maria-antoniak/little-mallet-wrapper)]   
 
 **[Evaluating the Stability of Embedding-based Word Similarities](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf)**   
 Maria Antoniak and David Mimno  
 TACL (2018)  
-[[PDF](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf)] [[Slides](https://maria-antoniak.github.io/resources/2018_naacl_presentation_with_notes.pdf)] [[Video](https://vimeo.com/277670053)] [[Code](https://github.com/maria-antoniak/word-embedding-stability)]  
+[[PDF](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf)] [[ACL Anthology](https://www.aclweb.org/anthology/Q18-1008/)] [[Slides](https://maria-antoniak.github.io/resources/2018_naacl_presentation_with_notes.pdf)] [[Video](https://vimeo.com/277670053)] [[Code](https://github.com/maria-antoniak/word-embedding-stability)]  
 
 **[Natural Language Processing Techniques on Oil and Gas Drilling Data](https://maria-antoniak.github.io/resources/2016_spe_oil_and_gas.pdf)**    
 Maria Antoniak, Jeff Dagliesh, and Justin Lo  
