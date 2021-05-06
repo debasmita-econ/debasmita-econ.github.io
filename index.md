@@ -29,6 +29,10 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
     <td>Interning at Twitter Applied Research.</td>
   </tr>
   <tr>
+    <td width="15%">May 2021</td>
+    <td>Our paper "Bad Seeds: Evaluating Lexical Methods for Bias Measurement" is accepted at ACL 2021</td>
+  </tr>
+  <tr>
     <td width="15%">Dec 2020</td>
     <td>Paper on Goodreads classics published at <a href="https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/">Post45</a> & <a href="https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism">Cultural Analytics</a></td>
   </tr>
