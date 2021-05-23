@@ -18,7 +18,7 @@ My past work has examined how postpartum people share and frame their [birth exp
 
 I'm currently a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, where I'm advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have a master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
 
-**Heads up! I'll be on the job market in Fall 2021.** Please reach out if you think I'd be a good fit for your academic department or industry research group.
+**I'll be on the job market starting in Fall 2021.** Please reach out if you think I'd be a good fit for your academic department or industry research group.
 
 
 <br> 
