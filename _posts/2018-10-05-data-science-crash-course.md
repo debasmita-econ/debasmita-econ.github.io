@@ -27,7 +27,7 @@ These explanations and visualizations are often very creative and thoughtful. Th
 
 <br>
 
-### Calculus and Information Theory
+### Calculus
 * [ML Cheatsheet: Calculus](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 
 <br>
