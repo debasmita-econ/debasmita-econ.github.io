@@ -27,14 +27,26 @@ These explanations and visualizations are often very creative and thoughtful. Th
 
 <br>
 
-### Statistics, Calculus, and Information Theory
+### Calculus and Information Theory
+* [ML Cheatsheet: Calculus](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
+
+<br>
+
+### Information Theory
 * [Combinatorics Cheat Sheet](https://mste.illinois.edu/projects/aims/files/2007/lpitt/combinatorics-cheat-sheet.doc)
 * [On Measures of Entropy and Information](http://threeplusone.com/gec/note) by Gavin E. Crooks
-* [Harvard Statistics: Math Review for Stat 110](https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf) by Joe Blitzstein
-* [ML Cheatsheet: Calculus](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
-* [Stanford Probabilistic Graphical Models: Probability review](https://ermongroup.github.io/cs228-notes/preliminaries/probabilityreview/) by Volodymyr Kuleshov and Stefano Ermon
+
+<br>
+
+### Statistics
+* [Handbook of Biological Statistics](http://www.biostathandbook.com/testchoice.html) by John H. McDonald
+* [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/) by Jonas Kristoffer Lindeløv
+* [17 Statistical Hypothesis Tests in Python (Cheat Sheet)](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/) by Jason Brownlee
 * [Probability Cheat Sheet](http://www.wzchen.com/probability-cheatsheet/) by Joe Blitzstein and William Chen
+* [Stanford Probabilistic Graphical Models: Probability review](https://ermongroup.github.io/cs228-notes/preliminaries/probabilityreview/) by Volodymyr Kuleshov and Stefano Ermon
 * [PennState Statistics: Confidence Intervals](https://onlinecourses.science.psu.edu/statprogram/node/135)
+* [Harvard Statistics: Math Review for Stat 110](https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf) by Joe Blitzstein
+
 
 <br>
 
@@ -103,11 +115,20 @@ These explanations and visualizations are often very creative and thoughtful. Th
 
 <br>
 
-### Deep Learning
+### Deep Learning Overview
 * [fast.ai](http://www.fast.ai/) by Jeremy Howard and Rachel Thomas
 * [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) by Yoav Goldberg
+
+<br>
+
+### BERT and Transfomers
+* [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://www.aclweb.org/anthology/N19-1423/) by Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar
+* [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/) by Jay Alammar
+* [BERT Does Business: Implementing the BERT Model for Natural Language Processing at Wayfair](https://www.aboutwayfair.com/tech-innovation/bert-does-business-implementing-the-bert-model-for-natural-language-processing-at-wayfair) by Matthias Mozer 
+* [Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) by Jesse Vig
 
 <br>
 
@@ -136,5 +157,7 @@ These explanations and visualizations are often very creative and thoughtful. Th
 <br><br>
 
 _November 19, 2018_
+
+_Updated: June 3, 2021_
 
 <br><br><br>
