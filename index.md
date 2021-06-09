@@ -28,7 +28,7 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 <table style="width:100%">
   <tr>
     <td width="15%">Jun 2021</td>
-    <td>Interning at Twitter Applied Research</td>
+    <td>Interning at <a href="https://cortex.twitter.com/">Twitter Cortex</a></td>
   </tr>
   <tr>
     <td width="15%">May 2021</td>

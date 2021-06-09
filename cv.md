@@ -11,7 +11,7 @@ You can download a PDF of my CV [here](http://maria-antoniak.github.io/resources
 ### Current
 
 PhD Candidate, [Information Science](http://infosci.cornell.edu/) Cornell University  
-Intern, [Twitter Applied Machine Learning](https://cortex.twitter.com/)
+Intern, [Twitter Cortex](https://cortex.twitter.com/)
 
 <br>
 
