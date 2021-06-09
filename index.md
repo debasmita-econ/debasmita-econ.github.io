@@ -44,7 +44,7 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
   </tr>
   <tr>
     <td width="15%">Dec 2020</td>
-    <td>Paper on <a href="https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf">LibraryThing</a> book reviews published at CSCW</td>
+    <td>Paper on <a href="https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf">genre and LibraryThing book reviews</a> published at CSCW</td>
   </tr>
 </table>
 
