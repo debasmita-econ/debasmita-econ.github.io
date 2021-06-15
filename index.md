@@ -32,7 +32,7 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
   </tr>
   <tr>
     <td width="15%">May 2021</td>
-    <td>Our paper <a href="https://github.com/maria-antoniak/bad-seeds">Bad Seeds: Evaluating Lexical Methods for Bias Measurement</a> is accepted at ACL 2021</td>
+    <td>Our paper <a href="https://maria-antoniak.github.io/resources/2020_acl_bad_seeds.pdf">Bad Seeds: Evaluating Lexical Methods for Bias Measurement</a> is accepted at ACL 2021</td>
   </tr>
   <tr>
     <td width="15%">Dec 2020</td>
