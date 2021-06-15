@@ -7,7 +7,7 @@ layout: default
 **[Bad Seeds: Evaluating Lexical Methods for Bias Measurement](https://maria-antoniak.github.io/resources/2020_acl_bad_seeds.pdf)**  
 Maria Antoniak and David Mimno  
 ACL (2021)  
-[[PDF](https://maria-antoniak.github.io/resources/2020_acl_bad_seeds.pdf) [[Lexicons](https://github.com/maria-antoniak/bad-seeds)]
+[[PDF](https://maria-antoniak.github.io/resources/2020_acl_bad_seeds.pdf)] [[Lexicons](https://github.com/maria-antoniak/bad-seeds)]
 
 **[Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)**  
 Maria Antoniak, Melanie Walsh, and David Mimno  
