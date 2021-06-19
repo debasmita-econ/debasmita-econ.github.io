@@ -9,7 +9,11 @@ layout: default
 * [Les Liaisons Dangereuses](https://bookshop.org/books/dangerous-liaisons-les-liaisons-dangereuses/9781533419576) by Pierre Choderlos de Laclos
 * [Authority](https://bookshop.org/books/authority-9780374104108/9780374104108) by Jeff VanderMeer
 * [Dark Entries](https://bookshop.org/books/dark-entries/9780571311774) by Robert Aikman
-* [Acceptance](https://bookshop.org/books/acceptance-9780374104115/9780374104115) by Jeff VanderMeer  
+* [Acceptance](https://bookshop.org/books/acceptance-9780374104115/9780374104115) by Jeff VanderMeer 
+* [The Bluest Eye](https://bookshop.org/books/the-bluest-eye/9780307278449) by Toni Morrison
+* [The Fellowship of the Ring](https://bookshop.org/books/the-fellowship-of-the-ring-1-being-the-first-part-of-the-lord-of-the-rings-9780547928210/9780547928210) by J.R.R. Tolkien
+* [The Two Towers](https://bookshop.org/books/the-two-towers-2-being-the-second-part-of-the-lord-of-the-rings-9780547928203/9780547928203) by J.R.R. Tolkien
+* [The Hearing Trumpet](https://bookshop.org/books/the-hearing-trumpet/9781681374642) by Leonora Carrington 
 
 <br>
 
