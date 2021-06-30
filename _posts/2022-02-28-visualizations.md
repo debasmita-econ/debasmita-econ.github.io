@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some Simple Dava Visualization Tips"
-date:   2020-11-27
+date:   2023-11-27
 ---
 
 <br><br>
