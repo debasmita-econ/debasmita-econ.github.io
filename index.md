@@ -28,7 +28,7 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 <table style="width:100%">
   <tr>
     <td width="15%">Jun 2021</td>
-    <td>Presenting our paper on seed terms for bias measurement at <a href="https://underline.io/events/167/sessions/5521/lecture/25462-bad-seeds-evaluating-lexical-methods-for-bias-measurement">ACL 2021</a> and at the <a href="https://genderbiasnlp.talp.cat/">Gender Bias for NLP Workshop</a></td>
+    <td>Presenting our paper on seed terms for bias measurement at <a href="https://underline.io/events/167/sessions/5521/lecture/25462-bad-seeds-evaluating-lexical-methods-for-bias-measurement">ACL 2021</a> and at the <a href="https://genderbiasnlp.talp.cat/">Gender Bias in NLP Workshop</a></td>
   </tr>
   <tr>
     <td width="15%">Jun 2021</td>
