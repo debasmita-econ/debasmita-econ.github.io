@@ -14,6 +14,8 @@ layout: default
 * [The Fellowship of the Ring](https://bookshop.org/books/the-fellowship-of-the-ring-1-being-the-first-part-of-the-lord-of-the-rings-9780547928210/9780547928210) by J.R.R. Tolkien
 * [The Two Towers](https://bookshop.org/books/the-two-towers-2-being-the-second-part-of-the-lord-of-the-rings-9780547928203/9780547928203) by J.R.R. Tolkien
 * [The Hearing Trumpet](https://bookshop.org/books/the-hearing-trumpet/9781681374642) by Leonora Carrington 
+* [Foundation](https://bookshop.org/books/foundation-9780553293357/9780553293357) by Isaac Asmimov
+* [The Body in Pain](https://bookshop.org/books/the-body-in-pain-the-making-and-unmaking-of-the-world/9780195049961) by Elaine Scarry
 
 <br>
 
