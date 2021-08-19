@@ -27,11 +27,11 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 
 <table style="width:100%">
   <tr>
-    <td width="15%">August 2021</td>
+    <td width="15%">Aug 2021</td>
     <td>Selected as a "Rising Star in EECS" by the <a href="https://risingstars21-eecs.mit.edu/">MIT EECS Rising Stars</a> workshop</td>
   </tr>
   <tr>
-    <td width="15%">August 2021</td>
+    <td width="15%">Aug 2021</td>
     <td>Giving a career advice talk on "Wandering with a Purpose" to the <a href="https://www.meetup.com/dair-ai/events/280146126/">Women in NLP</a> group</td>
   </tr>
   <tr>
