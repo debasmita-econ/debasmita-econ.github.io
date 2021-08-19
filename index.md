@@ -28,6 +28,14 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 <table style="width:100%">
   <tr>
     <td width="15%">Jun 2021</td>
+    <td>Selected as a "Rising Star in EECS" by the <a href="https://risingstars21-eecs.mit.edu/">MIT EECS Rising Stars</a> workshop</td>
+  </tr>
+  <tr>
+    <td width="15%">Jun 2021</td>
+    <td>Giving a career advice talk on "Wandering with a Purpose" to the <a href="https://www.meetup.com/dair-ai/events/280146126/">Women in NLP</a> group</td>
+  </tr>
+  <tr>
+    <td width="15%">Jun 2021</td>
     <td>Presenting our paper on seed terms for bias measurement at <a href="https://underline.io/events/167/sessions/5521/lecture/25462-bad-seeds-evaluating-lexical-methods-for-bias-measurement">ACL 2021</a> and at the <a href="https://genderbiasnlp.talp.cat/">Gender Bias in NLP Workshop</a></td>
   </tr>
   <tr>
