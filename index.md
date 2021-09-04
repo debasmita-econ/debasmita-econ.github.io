@@ -12,13 +12,13 @@ layout: default
 
 <!-- <img class="profile-picture" src="me.png"> -->
 
-I'm a researcher and data scientist working in natural language processing, computational social science, and cultural analytics. I'm interested in modeling how people communicate about their personal experiences through text, especially when these communications occur in online communities centered on healthcare support or cultural objects like books or games. My research relies on unsupervised machine learning methods and re-explores the reliability and evaluation of these methods when applied to small, socially-specific datasets. 
+I'm a researcher and data scientist working in natural language processing, computational social science, and cultural analytics. I'm interested in modeling how people communicate about their personal experiences through text, especially when these communications occur in online communities grounded in shared, structured experiences, like healthcare experiences or cultural objects like books or games. My research relies on unsupervised machine learning methods and re-explores the reliability and evaluation of these methods when applied to small, socially-specific datasets. 
 
-My past work has examined how postpartum people share and frame their [birth experiences](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf), how online book reviewers use and write about [genres](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf), and how the use of word embedding models requires additional [stability tests](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf) when used to measure biases.
+My past work has examined how postpartum people share and frame their [birth experiences](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf), how online book reviewers use and write about [genres](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf), and how the use of word embedding models require additional [stability tests](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf) when used to measure biases.
 
-I'm currently a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, where I'm advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have a master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
+I'm currently a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, where I'm advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have a master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Twitter Cortex](https://cortex.twitter.com/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
 
-**I'll be on the job market starting in Fall 2021.** Please reach out if you think I'd be a good fit for your academic department or industry research group.
+**I'm on the job market!** Please reach out if you think I'd be a good fit for your academic department or industry research group.
 
 
 <br> 
@@ -29,6 +29,10 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
   <tr>
     <td width="15%">Aug 2021</td>
     <td>Selected as a "Rising Star in EECS" by the <a href="https://risingstars21-eecs.mit.edu/">MIT EECS Rising Stars</a> workshop</td>
+  </tr>
+  <tr>
+    <td width="15%">Fall 2021</td>
+    <td>TAing INFO 2950: Intro to Data Science with Matthew Wilkens</td>
   </tr>
   <tr>
     <td width="15%">Aug 2021</td>
