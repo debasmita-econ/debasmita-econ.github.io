@@ -17,7 +17,7 @@ CSCW (2021)
 **[The Goodreads “Classics”: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://maria-antoniak.github.io/resources/2021_post45_classics.pdf)**    
 Melanie Walsh and Maria Antoniak  
 Post45 x Cultural Analytics (2021)  
-[[PDF](https://maria-antoniak.github.io/resources/2021_post45_ca_classics.pdf)] [[Post45](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/) [[Cultural Analytics](https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism)]] [[Code](https://github.com/maria-antoniak/goodreads-scraper)] [[Interactive Plots](https://melaniewalsh.github.io/Goodreads-Classics/)]     
+[[PDF](https://maria-antoniak.github.io/resources/2021_ca_classics.pdf)] [[Post45](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/) [[Cultural Analytics](https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism)]] [[Code](https://github.com/maria-antoniak/goodreads-scraper)] [[Interactive Plots](https://melaniewalsh.github.io/Goodreads-Classics/)]     
 
 **[Imagined examples of painful experiences provided by chronic low back pain patients and attributed a pain numerical rating score](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf)**  
 Robert Stewart Griffin, Maria Antoniak, Phuong Dinh Mac, Vladimir Kramskiy, Seth Waldman, David Mimno  
