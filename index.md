@@ -27,6 +27,10 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 
 <table style="width:100%">
   <tr>
+    <td width="15%">Sept 2021</td>
+    <td>Speaking at Stanford NLP Seminar on "Modeling Shared Personal Experiences in Online Communities"</td>
+  </tr>
+  <tr>
     <td width="15%">Aug 2021</td>
     <td>Selected as a "Rising Star in EECS" by the <a href="https://risingstars21-eecs.mit.edu/">MIT EECS Rising Stars</a> workshop</td>
   </tr>
