@@ -26,7 +26,6 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 ## News
 
 <table style="width:100%">
-https://maria-antoniak.github.io/resources/2021_emnlp_decameron.pdf
   <tr>
     <td width="15%">Sept 2021</td>
     <td>Our paper on <a href="https://maria-antoniak.github.io/resources/2021_emnlp_decameron.pdf">storyteller personalities</a> in Boccaccio's <i>Decameron</i> is accepted at the LaTeCH-CLfL Workshop at EMNLP</td>
