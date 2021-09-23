@@ -4,6 +4,11 @@ layout: default
 
 <br>
 
+**['*Tecnologica cosa*': Modeling Storyteller Personalities in Boccaccio’s *Decameron*](https://maria-antoniak.github.io/resources/2021_emnlp_decameron.pdf)**  
+A. Feder Cooper, Maria Antoniak, Christopher De Sa, David Mimno, Marilyn Migiel  
+LaTeCH-CLfL at EMNLP (2021)
+[[PDF](https://maria-antoniak.github.io/resources/2021_emnlp_decameron.pdf)]  
+
 **[Bad Seeds: Evaluating Lexical Methods for Bias Measurement](https://maria-antoniak.github.io/resources/2021_acl_bad_seeds.pdf)**  
 Maria Antoniak and David Mimno  
 ACL (2021)  
