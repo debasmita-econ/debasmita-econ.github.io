@@ -23,7 +23,7 @@ BA, [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
 
 ### Previous Work
 
-Intern, [Twitter Cortex](https://cortex.twitter.com/)
+Intern, [Twitter Cortex](https://cortex.twitter.com/)  
 Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/), [FATE](https://www.microsoft.com/en-us/research/group/fate/)  
 Intern, [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
 Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/), [EmpowerMD](https://www.microsoft.com/en-us/research/project/empowermd/)  
