@@ -9,13 +9,13 @@ layout: default
 
 ### Instructor
 
-**International Trade** (ECON 370). Summer 2018
+* **International Trade** (ECON 370). Summer 2018
 
 *Award for Distinguished Teaching* 
 
 ### Recitation Instructor
 
-**Principles of Economics** (ECON 210).  Fall 2016
+* **Principles of Economics** (ECON 210).  Fall 2016
 
 *Award for Outstanding Recitation Teaching*
 
