@@ -11,15 +11,7 @@ Resources Policy(2017)
 
 <br>
 
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="headshot.jpg" alt="" style="width:200px;height:200px;">
-  </div>
-  <div>
-    <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
-  </div>
-</div>
+
 
 
 <br><br>
