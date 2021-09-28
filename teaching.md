@@ -7,6 +7,7 @@ layout: default
 
 ## Purdue University
 
+
 <!--
 <span style="color:blue">**Instructor**</span>. -->
 ### Instructor
@@ -15,11 +16,13 @@ layout: default
 
 *Award for Distinguished Teaching* 
 
+
 ### Recitation Instructor
 
 * **Principles of Economics** (ECON 210).  Fall 2016
 
 *Award for Outstanding Recitation Teaching*
+
 
 ### Teaching Assistant
 
