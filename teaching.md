@@ -5,14 +5,13 @@ layout: default
 
 <!-- I have taught several courses, both as instructor and in my capacity as a Teaching Assistant at Purdue University. -->
 
-## Purdue University
+<span style="font-size:2em; font-variant: small-caps">**Purdue University**</span>
 ---
 
-
 <!--
-<span style="color:blue">**Instructor**</span>. -->
-<span style="color:ForestGreen; font-size:2em; font-variant: small-caps">**Instructor**</span>
-### Instructor
+<span style="color:blue">**Instructor**</span>.
+ ### Instructor -->
+<span style="color:ForestGreen; font-size:1em;">**Instructor**</span>
 
 * **International Trade** (ECON 370). Summer 2018
 
