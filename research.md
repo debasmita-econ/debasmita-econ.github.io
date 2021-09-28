@@ -11,7 +11,6 @@ Resources Policy(2017)
 
 <br>
 
-![image](headshot.jpg){: style="float: left"} some text
 
 
 <br><br>
