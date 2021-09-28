@@ -5,13 +5,14 @@ layout: default
 <br>
 
 <!--  <img class="profile-picture" src="sherlock.jpg"> -->
+<img class="profile-picture" src="headshot.jpg" style="width:200px;height:200px;">
 
 <br>
 
 ## About
 
 <!-- <img class="profile-picture" src="me.png"> -->
-<img class="profile-picture" src="headshot.jpg" style="width:200px;height:200px;">
+
 
 I'm a researcher 
 
