@@ -6,6 +6,9 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  
+markdown_extensions:
+      - fontawesome_markdown
 
 #tracking_id: 
 
