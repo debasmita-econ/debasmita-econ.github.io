@@ -4,6 +4,7 @@ layout: default
 
 
 <br>
+
 ### Instructor
 
 ECON 370 International Trade - Summer 2018
