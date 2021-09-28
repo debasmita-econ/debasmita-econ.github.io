@@ -14,7 +14,8 @@ I conduct economic analyses using tools from applied econometrics, numerical com
 
 I am on the job market in the 2021-2022 season. I will be interviewing remotely at any interested party's convenience. Please feel free to reach out if you think I would be a good fit for your academic department or industry research group.
 
-<span style="color:ForestGreen"> **Contact Information:**</span> <br>
+<span style="color:ForestGreen"> **Contact Information:**</span> 
+
 Department of Economics <br>
 Krannert School of Management <br>
 Purdue University <br>
