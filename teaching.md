@@ -5,7 +5,7 @@ layout: default
 
 <!-- I have taught several courses, both as instructor and in my capacity as a Teaching Assistant at Purdue University. -->
 
-## Purdue University:
+## Purdue University
 
 ### Instructor
 
