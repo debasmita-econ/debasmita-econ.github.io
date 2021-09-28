@@ -11,7 +11,6 @@ layout: default
 
 <!--
 <span style="color:blue">**Instructor**</span>. -->
-<span style=> **Instructor**</span>
 <span style="color:ForestGreen; font-size:4em; font-variant: small-caps">**Instructor**</span>
 ### Instructor
 
