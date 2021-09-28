@@ -1,20 +1,11 @@
 - name: "Contact"
   link: "https://debasmita-econ.github.io/contact"
 
-- name: "Resources"
-  link: "https://debasmita-econ.github.io/resources"
-
-- name: "Code"
-  link: "https://github.com/debasmita-econ"
-
-- name: "Blog"
-  link: "https://debasmita-econ.github.io/blog"
-
-- name: "Publications"
-  link: "https://debasmita-econ.github.io/publications"
-
-- name: "CV"
-  link: "https://debasmita-econ.github.io/cv"
+- name: "Research"
+  link: "https://debasmita-econ.github.io/research"
+  
+- name: "Teaching"
+  link: "https://debasmita-econ.github.io/teaching"
 
 - name: "About"
   link: "https://debasmita-econ.github.io/"
