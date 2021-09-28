@@ -7,7 +7,9 @@ layout: default
 
 ## Purdue University
 
-##<span style="color:blue">**Instructor**</span>.
+<!--
+<span style="color:blue">**Instructor**</span>. -->
+### Instructor
 
 * **International Trade** (ECON 370). Summer 2018
 
