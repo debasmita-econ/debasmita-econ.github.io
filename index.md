@@ -4,9 +4,10 @@ layout: default
 
 Welcome to my website!
 
-<div style="text-align: justify"> My name is Debasmita Das. I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/). </div>
+My name is Debasmita Das. I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/).
 
-I conduct economic analyses using tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods. 
+<div style="text-align: justify">  I conduct economic analyses using tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods.  </div>
+
 **Research Field:** Labor Economics, Public Economics and Applied Microeconomics
 <!-- My main areas of research are in Labor Economics, Public Economics and Applied Microeconomics. -->
 
