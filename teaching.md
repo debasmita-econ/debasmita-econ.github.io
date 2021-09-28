@@ -6,11 +6,13 @@ layout: default
 <!-- I have taught several courses, both as instructor and in my capacity as a Teaching Assistant at Purdue University. -->
 
 ## Purdue University
+---
 
 
 <!--
 <span style="color:blue">**Instructor**</span>. -->
-<span style="color:ForestGreen"> **Instructor**</span>
+<span style=> **Instructor**</span>
+<span style="color:ForestGreen; font-family:"Times New Roman"; font-size:4em; font-variant: small-caps">LOVE!</span>
 ### Instructor
 
 * **International Trade** (ECON 370). Summer 2018
