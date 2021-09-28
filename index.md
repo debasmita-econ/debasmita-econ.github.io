@@ -15,13 +15,13 @@ I conduct economic analyses using tools from applied econometrics, numerical com
 I am on the job market in the 2021-2022 season. I will be interviewing remotely at any interested party's convenience. Please feel free to reach out if you think I would be a good fit for your academic department or industry research group.
 
 <span style="color:ForestGreen"> **Contact Information:**</span>
-* **Office Location:** KRAN 332
 Department of Economics <br>
 Krannert School of Management <br>
 Purdue University <br>
 403 W. State Street <br>
 West Lafayette, IN 47907 <br>
 * **Email:** das57@purdue.edu
+<!-- * **Office Location:** KRAN 332 -->
 
 <br> 
 
