@@ -13,7 +13,7 @@ Resources Policy(2017)
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="headshot.jpg" alt="">
+    <img src="headshot.jpg" alt="" style="width:200px;height:200px;">
   </div>
   <div>
     <h2>Some title text</h2>
