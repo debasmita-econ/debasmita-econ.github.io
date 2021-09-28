@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<span style="color:ForestGreen"> *Welcome to my website!*</span>
+<span style="color:ForestGreen"> **Welcome to my website!**</span>
 
 <!--  My name is Debasmita Das. -->
 I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/).
