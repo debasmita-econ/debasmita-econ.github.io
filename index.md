@@ -11,7 +11,7 @@ layout: default
 ## About
 
 <!-- <img class="profile-picture" src="me.png"> -->
-<img class="profile-picture" src="headshot.jpg">
+<img class="profile-picture" src="headshot.jpg" style="width:200px;height:230px;">
 
 I'm a researcher 
 
