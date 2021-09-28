@@ -28,10 +28,10 @@ layout: default
 
 ### Teaching Assistant
 
-* **Economentrics** (ECON 360). Spring 2019, Spring 2020
-* **Intermediate Macroeconomics** (ECON 352). Fall 2018, Spring 2019, Fall 2021
-* **Intermediate Microeconomic Theory** (ECON 340). Fall 2017
-* **Intermediate Microeconomics** (ECON 511). Fall 2016
+* **Economentrics** (ECON 360, Undergraduate) - Spring 2019, Spring 2020
+* **Intermediate Macroeconomics** (ECON 352, Undergraduate) - Fall 2018, Spring 2019, Fall 2021
+* **Intermediate Microeconomic Theory** (ECON 340, Undergraduate) - Fall 2017
+* **Intermediate Microeconomics** (ECON 511, Masters) - Fall 2016
 
 <!--
 
