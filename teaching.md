@@ -12,7 +12,7 @@ layout: default
 <!--
 <span style="color:blue">**Instructor**</span>. -->
 <span style=> **Instructor**</span>
-<span style="color:ForestGreen; font-family:"Times New Roman"; font-size:4em; font-variant: small-caps">LOVE!</span>
+<span style="color:ForestGreen; font-size:4em; font-variant: small-caps">**Instructor**</span>
 ### Instructor
 
 * **International Trade** (ECON 370). Summer 2018
