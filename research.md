@@ -7,7 +7,7 @@ layout: default
 <!--
 You can also find my articles on my Google Scholar profile. 
 ### Working Paper -->
-<span style=" color:ForestGreen; font-size:30px;">**Working Papers**</span>
+<span style="font-size:20px; font-variant: small-caps;">**Working Papers**</span>
 
 **Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** <br>
 *Job Market Paper* (Draft coming soon!) <br>
@@ -16,14 +16,14 @@ You can also find my articles on my Google Scholar profile.
 
 
 <!-- ### Work in Progress -->
-<span style=" color:ForestGreen; font-size:30px;">**Work in Progress**</span>
+<span style="font-size:20px; font-variant: small-caps;">**Work in Progress**</span>
 
 **Cohort-specific Pension Reform and Married Couple's Labor Supply**
 
 Work in Progress
 
 <!-- ### Publication (Pre-PhD) -->
-<span style=" color:ForestGreen; font-size:30px;">**Publication (Pre-PhD)**</span>
+<span style="font-size:20px; font-variant: small-caps;">**Publication (Pre-PhD)**</span>
 
 **[Estimating Elasticity of Import Demand for Gold in India](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub)**    
 Resources Policy(2017) <br>
