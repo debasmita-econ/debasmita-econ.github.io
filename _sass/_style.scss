@@ -40,9 +40,15 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color: $accent;
+    color:  #c2448e;
     text-underline-offset: 4px;
     text-decoration-color: $accent;
+}
+a:link {
+  color: $accent;
+}
+a:visited {
+  color: #c2445c ;
 }
 hr {
     border: 0;
