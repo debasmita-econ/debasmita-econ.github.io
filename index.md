@@ -4,8 +4,6 @@ layout: default
 
 <center><img src="headshot.jpg" style="width:250px;height:250px;"></center>
 
-<br>
-
 <span style="color:ForestGreen"> **Welcome to my website!**</span>
 
 <!--  My name is Debasmita Das. -->
