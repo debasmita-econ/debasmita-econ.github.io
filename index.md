@@ -36,8 +36,15 @@ West Lafayette, IN 47907 <br>
 
 <br> 
 
-Here are links to my other professional web pages:<br>
+My other professional web pages: <a href ="https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra"><i class="ai ai-google-scholar fa-lg"> </i> </a>
+&nbsp;
+<a href ="https://www.linkedin.com/in/dasdebasmita"><i class="fa fa-linkedin fa-lg"> </i></a>
+&nbsp;
+<a href ="https://github.com/debasmita-das-econ"><i class="fa fa-github fa-lg"> </i></a>
+&nbsp;
+<br>
 
+<!--
 <table style="width:100%">
   <tr>
     <td width="15%"><i class="ai ai-google-scholar fa-lg"> </i> </td>
@@ -54,7 +61,7 @@ Here are links to my other professional web pages:<br>
 
 </table>
 
-
+-->
 
 
 <!-- <img class="profile-picture" src="me.png">
