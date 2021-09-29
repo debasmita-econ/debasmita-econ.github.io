@@ -45,14 +45,7 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
 <details>
   <summary>Abstract</summary>
   <p style="color:rgb(44, 62, 80)" align="justify">
-	Retirement decisions of married couples are often jointly planned. In this paper, I study how retirement behavior of married couples 
-	respond to cohort-specific Social Security policy reform that introduced actuarial deductions for early retirement in combination with 
-	an increase in the Full Retirement Age (FRA), that is the age from which an individual may claim a non-reduced Social Security retirement 
-	benefit. I develop a rich dynamic structural model of older married couples’ savings, labor force participation and Social Security benefit 
-	claim decisions over the lifecycle, and explore how the policy reform affect financial incentive of married couples’ retirement timing decisions. 
-	I calibrate the model using Method of Simulated Moments applied to the data from the Health and Retirement Study (HRS), and simulate life-cycle 
-	behavior of married couples under the specific benefit regime they face. I use the estimated model to perform a policy experiment to simulate 
-	couples’ labor supply behavior if the reform increases FRA of men but keeps FRA of women unchanged at the pre-reform level.  
+Retirement decisions of married couples are often jointly planned. In this paper, I study how retirement behavior of married couples respond to cohort-specific Social Security policy reform that introduced actuarial deductions for early retirement in combination with an increase in the Full Retirement Age (FRA), that is, the age from which an individual may claim a non-reduced Social Security retirement benefit. I develop a rich dynamic structural model of older married couples’ savings, labor force participation, and Social Security benefit claims decisions over the life cycle and explore how the policy reform affects the financial incentive of married couples’ retirement timing decisions. I calibrate the model using the Method of Simulated Moments applied to the data from the Health and Retirement Study (HRS) and simulate the life-cycle behavior of married couples under the specific benefit regime they face. I use the estimated model to perform a policy experiment and simulate couples’ labor supply behavior if the reform increases the FRA of men but keeps the FRA of women unchanged at the pre-reform level. 
   </p>
 </details>
 
