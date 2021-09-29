@@ -9,7 +9,7 @@ layout: default
 
 ---
 
-Below is a list of courses I have taught at [Purdue University](https://www.purdue.edu/). 
+Below is a list of courses I have taught at [Purdue University](https://www.purdue.edu/). <br>
 
 <!--
 <span style="color:blue">**Instructor**</span>.
