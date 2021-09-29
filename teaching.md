@@ -33,6 +33,7 @@ Fall 2016 <br>
 Award for Outstanding Recitation Teaching
 
 
+
 <!-- ### Teaching Assistant -->
 <span style="font-size:22px; font-variant: small-caps;">**Teaching Assistant**</span>
 
@@ -66,3 +67,14 @@ ECON 210 Principles of Economics - Fall 2016
 * ECON 340 Intermediate Microeconomic Theory - Fall 2017
 * ECON 511 Intermediate Microeconomics - Fall 2016
 -->
+
+
+
+
+
+<br>
+
+
+
+
+<br><br><br>
