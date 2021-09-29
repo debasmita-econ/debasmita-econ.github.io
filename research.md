@@ -49,7 +49,7 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
 
 
 <!-- ### Publication (Pre-PhD) -->
-<span style="font-size:20px; font-variant: small-caps;">**Publication (Pre-PhD)**</span>
+<span style="font-size:20px; font-variant: small-caps;">**Publications (Pre-PhD)**</span>
 
 <!-- Gold import elasticity paper -->
 **[Estimating Elasticity of Import Demand for Gold in India](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub)**    <br>
