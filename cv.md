@@ -6,6 +6,8 @@ Curriculum Vitae <i class="fa fa-download"> </i>
 
 Resume <i class="fa fa-download"> </i>
 
+<!--
+
 Here are links to my other professional web pages:<br>
 
 <table style="width:100%">
@@ -23,6 +25,7 @@ Here are links to my other professional web pages:<br>
   </tr>
 
 </table>
+-->
 
 <!--
 [Google Scholar](https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra) <i class="ai ai-google-scholar fa-lg"> </i>  <br>
@@ -35,3 +38,6 @@ Here are links to my other professional web pages:<br>
 <!-- <i class="ai ai-ssrn ai-2x"> </i> -->
 
 <br>
+
+
+<br><br><br>
