@@ -3,11 +3,12 @@ layout: default
 ---
 
 
-<!-- I have taught several courses, both as instructor and in my capacity as a Teaching Assistant at [Purdue University](https://www.purdue.edu/). -->
+<!-- I have taught several courses, both as instructor and in my capacity as a Teaching Assistant at [Purdue University](https://www.purdue.edu/). 
 
 <span style=" color:#8F2137; font-size:30px;">**Teaching**</span>
 
 ---
+-->
 
 Below is a list of courses I have taught at [Purdue University](https://www.purdue.edu/). <br>
 
@@ -17,17 +18,17 @@ Below is a list of courses I have taught at [Purdue University](https://www.purd
 <span style="color:ForestGreen; font-size:1em;">**Instructor**</span> 
 ### Instructor -->
 
-<span style="font-size:22px; font-variant: small-caps;">**Instructor**</span>
+<span style="color:#8F2137; font-size:22px; font-variant: small-caps;">**Instructor**</span>
 
 * **International Trade** (ECON 370) <br>
 Summer 2018 <br>
 Award for Distinguished Teaching <br>
 [Syllabus](http://debasmita-econ.github.io/resources/Syllabus_370_Summer_2018.pdf) <i class="fa fa-download"> </i> <br>
-Course materials are available [here](http://debasmita-das-econ.github.io/econ-370-summer-2018)<br>
+Course materials are available [here](http://debasmita-das-econ.github.io/econ-370-summer-2018).<br>
 <!-- Syllabus -->
 
 
-<span style="font-size:22px; font-variant: small-caps;">**Recitation Instructor**</span>
+<span style="color:#8F2137; font-size:22px; font-variant: small-caps;">**Recitation Instructor**</span>
 <!--  ### Recitation Instructor -->
 
 * **Principles of Economics** (ECON 210)  <br>
@@ -37,7 +38,7 @@ Award for Outstanding Recitation Teaching
 
 
 <!-- ### Teaching Assistant -->
-<span style="font-size:22px; font-variant: small-caps;">**Teaching Assistant**</span>
+<span style="color:#8F2137; font-size:22px; font-variant: small-caps;">**Teaching Assistant**</span>
 
 * **Econometrics** (ECON 360, Undergraduate) <br>
 Spring 2019, Spring 2020  <br>
