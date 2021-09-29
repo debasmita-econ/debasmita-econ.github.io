@@ -10,7 +10,7 @@ I am a PhD candidate in the [Department of Economics](https://krannert.purdue.ed
 **Research Field:** Labor Economics, Public Economics and Applied Microeconomics
 <!-- My main areas of research are in Labor Economics, Public Economics and Applied Microeconomics. -->
 
-My research combines data, theory, econometrics and computer programming to study mechanisms behind hosehold decision making and assess alternative policies. Methodologically, I conduct economic analyses using tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods. 
+My research combines data, theory, econometrics and computer programming to study mechanisms behind household decision making and assess alternative policies. Methodologically, I conduct economic analyses using tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods. 
 
 I am on the job market in the 2021-2022 season. 
 
