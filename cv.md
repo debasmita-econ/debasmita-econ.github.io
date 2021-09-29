@@ -21,7 +21,7 @@ Here are links to my other professional web pages:<br>
 <table style="width:100%">
   <tr>
     <td width="15%"><i class="ai ai-google-scholar fa-lg"> </i> </td>
-    <td>[Google Scholar](https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra)</td>
+    <td><a href ="https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra">Google Scholar</a></td>
   </tr>
   <tr>
     <td width="15%"><i class="fa fa-linkedin fa-lg"> </i></td>
