@@ -26,7 +26,10 @@ Purdue University <br>
 403 W. State Street <br>
 West Lafayette, IN 47907 <br>
 
-**Email:** <das57@purdue.edu>
+**Email:** <das57@purdue.edu> <br>
+
+<i class="fa fa-envelope"> </i> <das57@purdue.edu>
+
 <!-- * **Office Location:** KRAN 332 -->
 
 <br> 
