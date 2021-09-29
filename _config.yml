@@ -12,6 +12,10 @@ markdown_extensions:
 
 #tracking_id: 
 
+footer: yes
+footer_url: "https://github.com/debasmita-econ"
+footer_text: "Debasmita Das"
+
 sass:
     style: compressed
     sass_dir: _sass
