@@ -14,7 +14,7 @@ I am a PhD candidate in the [Department of Economics](https://krannert.purdue.ed
 <!-- My main areas of research are in Labor Economics, Public Economics and Applied Microeconomics. -->
 <!-- Add JMP -->
 
-My research combines data, theory, econometrics, and computer programming to study mechanisms behind household decision-making. I am interested in understanding how social insurance policies shape important life outcomes. My research relies on tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods.
+My research combines data, theory, econometrics, and computer programming to study mechanisms behind household decision-making. I am interested in understanding how social insurance policies shape important life outcomes. I conduct quantitative research analysis drawing on tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods.
 
 <!-- Methodologically, I conduct economic analyses using tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods. -->
 
