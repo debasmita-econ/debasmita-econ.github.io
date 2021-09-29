@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<center><img class="profile-picture" src="me.png"></center>
+<center><img class="profile-picture" src="headshot.png"></center>
 
 <br>
 
