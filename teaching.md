@@ -14,9 +14,10 @@ layout: default
 <span style="color:ForestGreen; font-size:1em;">**Instructor**</span> -->
 ### Instructor
 
-* **International Trade** (ECON 370). Summer 2018
-
-*Award for Distinguished Teaching* 
+* **International Trade** (ECON 370) <br>
+Summer 2018 <br>
+Award for Distinguished Teaching <br>
+Syllabus
 
 
 ### Recitation Instructor
@@ -28,7 +29,7 @@ layout: default
 
 ### Teaching Assistant
 
-* **Economentrics** (ECON 360, Undergraduate) - Spring 2019, Spring 2020
+* **Econometrics** (ECON 360, Undergraduate) - Spring 2019, Spring 2020
 * **Intermediate Macroeconomics** (ECON 352, Undergraduate) - Fall 2018, Spring 2019, Fall 2021
 * **Intermediate Microeconomic Theory** (ECON 340, Undergraduate) - Fall 2017
 * **Intermediate Microeconomics** (ECON 511, Masters) - Fall 2016
