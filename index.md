@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<center><img class="profile-picture" src="me.png"></center>
+
+<br>
+
 <span style="color:ForestGreen"> **Welcome to my website!**</span>
 
 <!--  My name is Debasmita Das. -->
@@ -30,8 +34,9 @@ West Lafayette, IN 47907 <br>
 
 <br> 
 
-<img src="headshot.jpg" style="width:250px;height:250px;">
-<!-- <img class="profile-picture" src="me.png"> -->
+
+<!-- <img class="profile-picture" src="me.png">
+ <img src="headshot.jpg" style="width:250px;height:250px;"> -->
 <br>
 
 
