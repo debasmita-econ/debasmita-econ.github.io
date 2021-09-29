@@ -24,6 +24,8 @@ Summer 2018 <br>
 Award for Distinguished Teaching <br>
 <!-- Syllabus -->
 
+<br>
+
 <span style="font-size:22px; font-variant: small-caps;">**Recitation Instructor**</span>
 <!--  ### Recitation Instructor -->
 
@@ -31,6 +33,7 @@ Award for Distinguished Teaching <br>
 Fall 2016 <br>
 Award for Outstanding Recitation Teaching
 
+<br>
 
 <!-- ### Teaching Assistant -->
 <span style="font-size:22px; font-variant: small-caps;">**Teaching Assistant**</span>
