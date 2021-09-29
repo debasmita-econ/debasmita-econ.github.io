@@ -7,18 +7,18 @@ layout: default
 <!--
 You can also find my articles on my Google Scholar profile. -->
 
-## Working Paper
+### Working Paper
 
 **Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** - *Job Market Paper* (Draft coming soon!) <br>
 
 **SNAP Work Requirement and Food Insecurity**
 
 
-## Work in Progress
+### Work in Progress
 
 **Cohort-specific Pension Reform and Married Couple's Labor Supply**
 
-## Publication (Pre-PhD)
+### Publication (Pre-PhD)
 
 
 **[Estimating Elasticity of Import Demand for Gold in India](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub)**    
