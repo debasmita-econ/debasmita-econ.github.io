@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<span style=" color:ForestGreen; font-size:30px;">**Research**</span>
+<!-- <span style=" color:ForestGreen; font-size:30px;">**Research**</span> -->
 
 <!--
 You can also find my articles on my Google Scholar profile. 
 ### Working Paper -->
-<span style="color: #455a64; font-size:20px; font-variant: small-caps;">**Working Papers**</span>
+<span style="color: ForestGreen; font-size:20px; font-variant: small-caps;">**Working Papers**</span>
 
 **Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** <br>
 *Job Market Paper* (Draft coming soon!) <br>
@@ -37,7 +37,7 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
 <br>
 
 <!-- ### Work in Progress -->
-<span style="font-size:20px; font-variant: small-caps;">**Work in Progress**</span>
+<span style="color: ForestGreen; font-size:20px; font-variant: small-caps;">**Work in Progress**</span>
 
 **Cohort-specific Pension Reform and Married Couple's Labor Supply**
 
@@ -58,7 +58,7 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
 <br>
 
 <!-- ### Publication (Pre-PhD) -->
-<span style="font-size:20px; font-variant: small-caps;">**Publications (Pre-PhD)**</span>
+<span style="color: ForestGreen; font-size:20px; font-variant: small-caps;">**Publications (Pre-PhD)**</span>
 
 <!-- Gold import elasticity paper -->
 **[Estimating Elasticity of Import Demand for Gold in India](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub)**    <br>
