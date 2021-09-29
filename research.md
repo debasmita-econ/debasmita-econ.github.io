@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<span style=" color:ForestGreen; font-size:25px;">**Research**</span>
+<span style=" color:ForestGreen; font-size:28px;">**Research**</span>
 
 <!--
 You can also find my articles on my Google Scholar profile. -->
