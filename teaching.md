@@ -30,7 +30,7 @@ Award for Outstanding Recitation Teaching
 
 
 <!-- ### Teaching Assistant -->
-<span style="font-size:22px; font-variant: small-caps;">**RTeaching Assistant**</span>
+<span style="font-size:22px; font-variant: small-caps;">**Teaching Assistant**</span>
 
 * **Econometrics** (ECON 360, Undergraduate) <br>
 Spring 2019, Spring 2020  <br>
