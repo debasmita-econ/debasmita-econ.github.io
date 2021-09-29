@@ -4,7 +4,7 @@ layout: default
 
 <center><img src="headshot.jpg" style="width:250px;height:250px;"></center>
 
-<span style="color:ForestGreen"> **Welcome to my website!**</span>
+<span style="color: #8F2137"> **Welcome to my website!**</span>
 
 <!--  My name is Debasmita Das. -->
 I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/).
@@ -20,14 +20,14 @@ I am on the job market in the 2021-2022 season. Please feel free to reach out if
 
 <!--  -->
 
-<span style="color:ForestGreen; "> **Contact Information:**</span> <br>
-KRAN 332, Department of Economics <br>
+<span style="color: #8F2137; "> **Contact Information:**</span> <br>
+Department of Economics <br>
 Krannert School of Management <br>
 Purdue University <br>
-403 W. State Street <br>
+KRAN 332, 403 W. State Street <br>
 West Lafayette, IN 47907 <br>
 
-**Email:** [das57@purdue.edu](das57@purdue.edu)
+**Email:** <das57@purdue.edu>
 <!-- * **Office Location:** KRAN 332 -->
 
 <br> 
