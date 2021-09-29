@@ -7,6 +7,8 @@ layout: default
 
 <span style=" color:ForestGreen; font-size:30px;">**Teaching**</span>
 
+---
+
 Below is a list of courses I have taught at [Purdue University](https://www.purdue.edu/). 
 
 <!--
