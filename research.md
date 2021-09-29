@@ -69,14 +69,7 @@ with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ
 <details>
   <summary>Abstract</summary>
   <p style="color:rgb(44, 62, 80)" align="justify">
-  In India, rising demand for gold had an adverse impact on the country's current account balance and the attempts to curb gold import demand often failed 
-	in the recent past. In this paper, we empirically investigate the reasons of such failures by analyzing the possibility of habit formation and 
-	inventory adjustment effects in determining the dynamics of gold import demand in India. Using three dynamic demand models based on distributed 
-	lag specifications, we estimate the price and income elasticities of different forms of physical gold imports, viz. non-monetary powder 
-	form of gold, other non-monetary semi-manufactured forms of gold and other non-monetary unwrought forms of gold. Based on monthly gold 
-	import data, we find that Indian consumers care about variation in gold prices, silver prices, gold import expenditures and long-term bond yield in 
-	the short-run, but in the longer horizon they exhibit demand persistence. Different sensitivity of different forms of gold import suggest that 
-	an aggregate demand analysis fails to capture the non-symmetric mechanisms operating on different components of gold import demand in India.  
+In India, rising demand for gold had an adverse impact on the country's current account balance, and the attempts to curb gold import demand often failed in the recent past. In this paper, we empirically investigate the reasons for such failures by analyzing the possibility of habit formation and inventory adjustment effects in determining the dynamics of gold import demand in India. Using three dynamic demand models based on distributed lag specifications, we estimate the price and income elasticities of different forms of physical gold imports, viz. non-monetary powder form of gold, other non-monetary semi-manufactured forms of gold, and other non-monetary unwrought forms of gold. Based on monthly gold import data, we find that Indian consumers care about variation in gold prices, silver prices, gold import expenditures, and long-term bond yield in the short-run, but they exhibit demand persistence in the long run. Different sensitivity of different forms of gold import suggests that an aggregate demand analysis fails to capture the non-symmetric mechanisms operating on different components of gold import demand in India. 
   </p>
 </details>
 
