@@ -14,4 +14,9 @@ Here are links to my other professional web pages:
 [ResearchGate](https://www.researchgate.net/profile/Debasmita-Das-3) <br>
 [ORCiD](https://orcid.org/0000-0003-3339-570X) <br>
 
+<i class="ai ai-google-scholar ai-2x"> </i>
+<i class="ai ai-ideas-repec ai-2x"> </i>
+<i class="ai ai-researchgate ai-2x"> </i>
+<i class="ai ai-ssrn ai-2x"> </i>
+<i class="ai ai-orcid ai-2x"> </i>
 <br>
