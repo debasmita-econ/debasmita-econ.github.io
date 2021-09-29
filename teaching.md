@@ -6,7 +6,8 @@ layout: default
 <!-- I have taught several courses, both as instructor and in my capacity as a Teaching Assistant at Purdue University. -->
 
 <span style=" color:ForestGreen; font-size:30px;">**Teaching**</span>
----
+
+I have taught several courses, both as instructor and in my capacity as a Teaching Assistant at [Purdue University](https://www.purdue.edu/). 
 
 <!--
 <span style="color:blue">**Instructor**</span>.
