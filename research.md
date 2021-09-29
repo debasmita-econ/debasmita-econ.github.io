@@ -14,6 +14,17 @@ You can also find my articles on my Google Scholar profile.
 
 **SNAP Work Requirement and Food Insecurity**
 
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 <!-- ### Work in Progress -->
 <span style="font-size:20px; font-variant: small-caps;">**Work in Progress**</span>
