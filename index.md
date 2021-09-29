@@ -30,17 +30,13 @@ Purdue University <br>
 West Lafayette, IN 47907 <br>
 
 <!-- **Email:** <das57@purdue.edu> <br> -->
-<i class="fa fa-envelope"> </i> **Email:** <das57@purdue.edu>
-
+<i class="fa fa-envelope"> </i> **Email:** <das57@purdue.edu> <br>
 <!-- * **Office Location:** KRAN 332 -->
-
-<br> 
-
-My other professional web pages: <a href ="https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra"><i class="ai ai-google-scholar fa-lg"> </i> </a>
+My other professional web pages: <a href ="https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra"><i class="ai ai-google-scholar fa-2x"> </i> </a>
 &nbsp;
-<a href ="https://www.linkedin.com/in/dasdebasmita"><i class="fa fa-linkedin fa-lg"> </i></a>
+<a href ="https://www.linkedin.com/in/dasdebasmita"><i class="fa fa-linkedin fa-2x"> </i></a>
 &nbsp;
-<a href ="https://github.com/debasmita-das-econ"><i class="fa fa-github fa-lg"> </i></a>
+<a href ="https://github.com/debasmita-das-econ"><i class="fa fa-github fa-2x"> </i></a>
 &nbsp;
 <br>
 
