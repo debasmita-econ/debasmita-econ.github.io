@@ -15,9 +15,9 @@ Here are links to my other professional web pages:<br>
 [ORCiD](https://orcid.org/0000-0003-3339-570X) <br>
 
 <i class="ai ai-google-scholar ai-2x"> </i>
-<i class="far fa-envelope"> </i>
-<i class="fab fa-github"> </i>
-<i class="fab fa-linkedin"> </i>
+<i class="fa fa-envelope"> </i>
+<i class="fa fa-github"> </i>
+<i class="fa fa-linkedin"> </i>
 <i class="ai ai-ideas-repec ai-2x"> </i>
 <i class="ai ai-researchgate ai-2x"> </i>
 <i class="ai ai-ssrn ai-2x"> </i>
