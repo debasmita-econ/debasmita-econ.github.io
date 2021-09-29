@@ -40,14 +40,55 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
 
 **Cohort-specific Pension Reform and Married Couple's Labor Supply**
 
-Work in Progress
+<details>
+  <summary>Abstract</summary>
+  <p style="color:rgb(44, 62, 80)" align="justify">
+	  
+  </p>
+</details>
+
 
 <!-- ### Publication (Pre-PhD) -->
 <span style="font-size:20px; font-variant: small-caps;">**Publication (Pre-PhD)**</span>
 
+<!-- Gold import elasticity paper -->
 **[Estimating Elasticity of Import Demand for Gold in India](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub)**    
-Resources Policy(2017) <br>
-with Paramita Mukherjee and Vivekananda Mukherjee 
+***Resources Policy***, 2017, 51, pp. 183-193.  <br>
+with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ&hl=en) and [Vivekananda Mukherjee](https://scholar.google.com/citations?user=_TjZF80AAAAJ&hl=en) 
+	
+<details>
+  <summary>Abstract</summary>
+  <p style="color:rgb(44, 62, 80)" align="justify">
+  In India, rising demand for gold had an adverse impact on the country's current account balance and the attempts to curb gold import demand often failed 
+	in the recent past. In this paper, we empirically investigate the reasons of such failures by analyzing the possibility of habit formation and 
+	inventory adjustment effects in determining the dynamics of gold import demand in India. Using three dynamic demand models based on distributed 
+	lag specifications, we estimate the price and income elasticities of different forms of physical gold imports, viz. non-monetary powder 
+	form of gold, other non-monetary semi-manufactured forms of gold and other non-monetary unwrought forms of gold. Based on monthly gold 
+	import data, we find that Indian consumers care about variation in gold prices, silver prices, gold import expenditures and long-term bond yield in 
+	the short-run, but in the longer horizon they exhibit demand persistence. Different sensitivity of different forms of gold import suggest that 
+	an aggregate demand analysis fails to capture the non-symmetric mechanisms operating on different components of gold import demand in India.  
+  </p>
+</details>
+
+<!-- Inclusive Growth Index Paper -->
+**[Inclusive Growth: Economics as if People Mattered](https://doi.org/10.1177/0972150917713840)**
+***Global Business Review***, 2018, 19(3), pp. 756-770. <br>
+with [Aruni Mitra](https://arunimitra.com/)
+
+<details>
+  <summary>Abstract</summary>
+  <p style="color:rgb(44, 62, 80)" align="justify">
+	In this study, we provide a holistic working definition of inclusive growth unlike previous definitions that come under the shadow 
+	of pro-poor growth or inequality reduction. We measure inclusive growth through a newly proposed index, named as the Inclusive Growth 
+	Index (IGI), based on 24 developmental indicator variables (categorized into expansion, sustainability, equity in access, and efficiency 
+	of economic activities and institutions) as its components. We have employed two kinds of weighting schemes in constructing the index: 
+	an ad hoc weighting scheme and a weighting scheme based on principal component analysis (PCA), performed differently on variables under 
+	each dimension. We calculated IGI for 16 Asian countries and we ranked the countries according to their respective inclusive growth achievements.
+	Through a comparison of IGI values with the Human Development Index (HDI) values, our findings give insight to the fact that how HDI values can 
+	be misleading in measuring development performance of a country and how IGI is able to identify income based as well as non-income based 
+	aspects of well-being.
+  </p>
+</details>
 
 
 
