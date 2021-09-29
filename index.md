@@ -24,7 +24,7 @@ Krannert School of Management <br>
 Purdue University <br>
 403 W. State Street <br>
 West Lafayette, IN 47907 <br>
-**Email:** das57@purdue.edu
+**Email:** [das57@purdue.edu](das57@purdue.edu)
 <!-- * **Office Location:** KRAN 332 -->
 
 <br> 
