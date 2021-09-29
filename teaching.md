@@ -12,7 +12,8 @@ layout: default
 <span style="color:blue">**Instructor**</span>.
   
 <span style="color:ForestGreen; font-size:1em;">**Instructor**</span> -->
-### Instructor
+
+<span style="font-size:18px; font-variant: small-caps;"><u>**Teaching**<u></span>
 
 * **International Trade** (ECON 370) <br>
 Summer 2018 <br>
