@@ -16,8 +16,8 @@ Here are links to my other professional web pages:<br>
 
 <i class="ai ai-google-scholar ai-2x"> </i>
 <i class="far fa-envelope"> </i>
-<i class="fab fa-github ai-2x"> </i>
-<i class="fab fa-linkedin-in ai-2x"> </i>
+<i class="fab fa-github"> </i>
+<i class="fab fa-linkedin"> </i>
 <i class="ai ai-ideas-repec ai-2x"> </i>
 <i class="ai ai-researchgate ai-2x"> </i>
 <i class="ai ai-ssrn ai-2x"> </i>
