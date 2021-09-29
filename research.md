@@ -34,6 +34,8 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
     </p>
 </details>
 
+<br>
+<br>
 
 <!-- ### Work in Progress -->
 <span style="font-size:20px; font-variant: small-caps;">**Work in Progress**</span>
@@ -54,6 +56,8 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
   </p>
 </details>
 
+<br>
+<br>
 
 <!-- ### Publication (Pre-PhD) -->
 <span style="font-size:20px; font-variant: small-caps;">**Publications (Pre-PhD)**</span>
@@ -76,6 +80,8 @@ with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ
 	an aggregate demand analysis fails to capture the non-symmetric mechanisms operating on different components of gold import demand in India.  
   </p>
 </details>
+
+<br>
 
 <!-- Inclusive Growth Index Paper -->
 **[Inclusive Growth: Economics as if People Mattered](https://doi.org/10.1177/0972150917713840)** <br>
