@@ -12,23 +12,36 @@ html {
 body {
     margin: 0;
     font-family: "Lato";
-    font-weight: 350;
+    font-weight: 500;
     height: 90%;
 }
 // b{
 //     font-weight: 700;
 // }
+// a {
+//    text-decoration: underline;
+//    color: black;
+    // font-weight: bold;
+//    text-underline-offset: 3px;
+//    text-decoration-color: $accent;
+// }
+// a:hover {
+//    text-decoration: underline;
+//    color: $accent;
+//    text-underline-offset: 3px;
+//    text-decoration-color: $accent;
+// }
 a {
     text-decoration: underline;
     color: black;
     // font-weight: bold;
-    text-underline-offset: 3px;
+    text-underline-offset: 4px;
     text-decoration-color: $accent;
 }
 a:hover {
     text-decoration: underline;
     color: $accent;
-    text-underline-offset: 3px;
+    text-underline-offset: 4px;
     text-decoration-color: $accent;
 }
 hr {
