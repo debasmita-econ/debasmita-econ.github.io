@@ -43,10 +43,13 @@ Award for Outstanding Recitation Teaching
 * **Econometrics** (ECON 360, Undergraduate) <br>
 Spring 2019, Spring 2020  <br>
 [Useful STATA Commands](http://debasmita-econ.github.io/resources/Useful_STATA_Commands.pdf) <i class="fa fa-download"> </i> <br>
+
 * **Intermediate Macroeconomics** (ECON 352, Undergraduate)  <br>
 Fall 2018, Spring 2019, Fall 2021  <br>
+
 * **Intermediate Microeconomic Theory** (ECON 340, Undergraduate)  <br>
 Fall 2017  <br>
+
 * **Intermediate Microeconomics** (ECON 511, Masters, Online)  <br>
 Fall 2016  <br>
 
