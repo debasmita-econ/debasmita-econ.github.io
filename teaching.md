@@ -22,9 +22,8 @@ Syllabus
 
 ### Recitation Instructor
 
-* **Principles of Economics** (ECON 210).  Fall 2016
-
-*Award for Outstanding Recitation Teaching*
+* **Principles of Economics** (ECON 210).  Fall 2016 <br>
+Award for Outstanding Recitation Teaching
 
 
 ### Teaching Assistant
