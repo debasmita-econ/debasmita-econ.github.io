@@ -10,7 +10,8 @@ You can also find my articles on my Google Scholar profile.
 <span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Working Papers**</span>
 
 **Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** <br>
-*Job Market Paper* (Draft coming soon!) <br>
+
+Job Market Paper (Draft coming soon!) <br>
 
 **SNAP Work Requirement and Food Insecurity**
 
