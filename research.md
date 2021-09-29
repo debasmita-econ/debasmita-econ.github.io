@@ -88,15 +88,7 @@ with [Aruni Mitra](https://arunimitra.com/)
 <details>
   <summary>Abstract</summary>
   <p style="color:rgb(44, 62, 80)" align="justify">
-	In this study, we provide a holistic working definition of inclusive growth unlike previous definitions that come under the shadow 
-	of pro-poor growth or inequality reduction. We measure inclusive growth through a newly proposed index, named as the Inclusive Growth 
-	Index (IGI), based on 24 developmental indicator variables (categorized into expansion, sustainability, equity in access, and efficiency 
-	of economic activities and institutions) as its components. We have employed two kinds of weighting schemes in constructing the index: 
-	an ad hoc weighting scheme and a weighting scheme based on principal component analysis (PCA), performed differently on variables under 
-	each dimension. We calculated IGI for 16 Asian countries and we ranked the countries according to their respective inclusive growth achievements.
-	Through a comparison of IGI values with the Human Development Index (HDI) values, our findings give insight to the fact that how HDI values can 
-	be misleading in measuring development performance of a country and how IGI is able to identify income based as well as non-income based 
-	aspects of well-being.
+	In this study, we provide a holistic working definition of inclusive growth, unlike previous definitions that come under the shadow of pro-poor growth or inequality reduction. We measure inclusive growth through a newly proposed index, named the Inclusive Growth Index (IGI), based on 24 developmental indicator variables (categorized into expansion, sustainability, equity in access, and efficiency of economic activities and institutions) as its components. We have employed two kinds of weighting schemes in constructing the index: an ad hoc weighting scheme and a weighting scheme based on principal component analysis (PCA), performed differently on variables under each dimension. We calculated the IGI values for 16 Asian countries and ranked the countries according to their respective inclusive growth achievements. By comparing the IGI values with the Human Development Index (HDI) values, our findings uncover how the HDI values can be misleading in measuring the development performance of a country and how the IGI can identify income-based as well as non-income based aspects of well-being.
   </p>
 </details>
 
