@@ -22,6 +22,7 @@ Below is a list of courses I have taught at [Purdue University](https://www.purd
 * **International Trade** (ECON 370) <br>
 Summer 2018 <br>
 Award for Distinguished Teaching <br>
+<!-- [Syllabus]() <i class="fa fa-download"> </i> -->
 <!-- Syllabus -->
 
 
@@ -39,11 +40,12 @@ Award for Outstanding Recitation Teaching
 
 * **Econometrics** (ECON 360, Undergraduate) <br>
 Spring 2019, Spring 2020  <br>
+<!-- [Useful STATA Commands]() <i class="fa fa-download"> </i> --> <br>
 * **Intermediate Macroeconomics** (ECON 352, Undergraduate)  <br>
 Fall 2018, Spring 2019, Fall 2021  <br>
 * **Intermediate Microeconomic Theory** (ECON 340, Undergraduate)  <br>
 Fall 2017  <br>
-* **Intermediate Microeconomics** (ECON 511, Masters)  <br>
+* **Intermediate Microeconomics** (ECON 511, Masters, Online)  <br>
 Fall 2016  <br>
 
 <!--
