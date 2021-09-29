@@ -18,6 +18,17 @@ Here are links to my other professional web pages:<br>
 
 
 
+<table style="width:100%">
+  <tr>
+    <td width="15%"><i class="ai ai-google-scholar fa-lg"> </i> </td>
+    <td>[Google Scholar](https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra)</td>
+  </tr>
+  <tr>
+    <td width="15%"><i class="fa fa-linkedin fa-lg"> </i></td>
+    <td>[LinkedIn](https://www.linkedin.com/in/dasdebasmita)</td>
+  </tr>
 
+
+</table>
 
 <br>
