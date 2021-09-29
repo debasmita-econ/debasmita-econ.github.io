@@ -5,30 +5,32 @@ layout: default
 
 <!-- I have taught several courses, both as instructor and in my capacity as a Teaching Assistant at Purdue University. -->
 
-<span style=" color:ForestGreen; font-size:28px;">**Teaching**</span>
+<span style=" color:ForestGreen; font-size:30px;">**Teaching**</span>
 ---
 
 <!--
 <span style="color:blue">**Instructor**</span>.
   
-<span style="color:ForestGreen; font-size:1em;">**Instructor**</span> -->
+<span style="color:ForestGreen; font-size:1em;">**Instructor**</span> 
+### Instructor -->
 
-<span style="font-size:18px; font-variant: small-caps;">**Instructor**</span>
+<span style="font-size:22px; font-variant: small-caps;">**Instructor**</span>
 
 * **International Trade** (ECON 370) <br>
 Summer 2018 <br>
 Award for Distinguished Teaching <br>
 <!-- Syllabus -->
 
-
-### Recitation Instructor
+<span style="font-size:22px; font-variant: small-caps;">**Recitation Instructor**</span>
+<!--  ### Recitation Instructor -->
 
 * **Principles of Economics** (ECON 210)  <br>
 Fall 2016 <br>
 Award for Outstanding Recitation Teaching
 
 
-### Teaching Assistant
+<!-- ### Teaching Assistant -->
+<span style="font-size:22px; font-variant: small-caps;">**RTeaching Assistant**</span>
 
 * **Econometrics** (ECON 360, Undergraduate) <br>
 Spring 2019, Spring 2020  <br>
