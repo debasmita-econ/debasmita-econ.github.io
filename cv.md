@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Curriculum Vitae
+Curriculum Vitae <i class="fa fa-download"> </i>
 
-Resume
+Resume <i class="fa fa-download"> </i>
 
-Here are links to my other professional web pages:
+Here are links to my other professional web pages:<br>
 [Google Scholar](https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra) <br>
 [LinkedIn](https://www.linkedin.com/in/dasdebasmita) <br>
 [Ideas](https://ideas.repec.org/f/pda898.html) <br>
@@ -15,6 +15,9 @@ Here are links to my other professional web pages:
 [ORCiD](https://orcid.org/0000-0003-3339-570X) <br>
 
 <i class="ai ai-google-scholar ai-2x"> </i>
+<i class="far fa-envelope"> </i>
+<i class="fab fa-github ai-2x"> </i>
+<i class="fab fa-linkedin-in ai-2x"> </i>
 <i class="ai ai-ideas-repec ai-2x"> </i>
 <i class="ai ai-researchgate ai-2x"> </i>
 <i class="ai ai-ssrn ai-2x"> </i>
