@@ -11,6 +11,7 @@ I am a PhD candidate in the [Department of Economics](https://krannert.purdue.ed
 
 **Research Field:** Labor Economics, Public Economics and Applied Microeconomics
 <!-- My main areas of research are in Labor Economics, Public Economics and Applied Microeconomics. -->
+<!-- Add JMP -->
 
 My research combines data, theory, econometrics, and computer programming to study mechanisms behind household decision making and to assess how social insurance policies shape important life outcomes. Methodologically, I conduct economic analyses using tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods. 
 
@@ -18,13 +19,11 @@ I am on the job market in the 2021-2022 season. Please feel free to reach out if
 
 <!-- I will be interviewing remotely at any interested party's convenience. -->
 
-<!--  -->
-
 <span style="color: #8F2137; "> **Contact Information:**</span> <br>
 Department of Economics <br>
 Krannert School of Management <br>
 Purdue University <br>
-KRAN 332, 403 W. State Street <br>
+403 W. State Street <br>
 West Lafayette, IN 47907 <br>
 
 **Email:** <das57@purdue.edu>
