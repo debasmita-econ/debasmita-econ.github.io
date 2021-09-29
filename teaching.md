@@ -5,7 +5,7 @@ layout: default
 
 <!-- I have taught several courses, both as instructor and in my capacity as a Teaching Assistant at Purdue University. -->
 
-<span style=" color:ForestGreen; font-size:28px;">**Teaching**</span>
+<span style=" color:ForestGreen; font-size:28px; text-align: center;">**Teaching**</span>
 ---
 
 <!--
