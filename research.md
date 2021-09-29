@@ -13,6 +13,13 @@ You can also find my articles on my Google Scholar profile.
 
 Job Market Paper (Draft coming soon!) <br>
 
+<details>
+  <summary>Abstract</summary>
+  <p style="color:rgb(44, 62, 80)" align="justify"> 
+  Coming Soon!
+  </p>
+</details>
+
 
 **SNAP Work Requirement and Food Insecurity**
 
