@@ -52,7 +52,7 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
 <span style="font-size:20px; font-variant: small-caps;">**Publication (Pre-PhD)**</span>
 
 <!-- Gold import elasticity paper -->
-**[Estimating Elasticity of Import Demand for Gold in India](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub)**    
+**[Estimating Elasticity of Import Demand for Gold in India](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub)**    <br>
 ***Resources Policy***, 2017, 51, pp. 183-193.  <br>
 with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ&hl=en) and [Vivekananda Mukherjee](https://scholar.google.com/citations?user=_TjZF80AAAAJ&hl=en) 
 	
@@ -71,7 +71,7 @@ with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ
 </details>
 
 <!-- Inclusive Growth Index Paper -->
-**[Inclusive Growth: Economics as if People Mattered](https://doi.org/10.1177/0972150917713840)**
+**[Inclusive Growth: Economics as if People Mattered](https://doi.org/10.1177/0972150917713840)** <br>
 ***Global Business Review***, 2018, 19(3), pp. 756-770. <br>
 with [Aruni Mitra](https://arunimitra.com/)
 
