@@ -27,7 +27,7 @@ Purdue University <br>
 West Lafayette, IN 47907 <br>
 
 <!-- **Email:** <das57@purdue.edu> <br> -->
-<i class="fa fa-envelope"> </i>**Email:** <das57@purdue.edu>
+<i class="fa fa-envelope"> </i> **Email:** <das57@purdue.edu>
 
 <!-- * **Office Location:** KRAN 332 -->
 
