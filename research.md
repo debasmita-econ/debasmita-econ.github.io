@@ -9,7 +9,8 @@ You can also find my articles on my Google Scholar profile. -->
 
 ### Working Paper
 
-**Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** - *Job Market Paper* (Draft coming soon!) <br>
+**Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** <br>
+*Job Market Paper* (Draft coming soon!) <br>
 
 **SNAP Work Requirement and Food Insecurity**
 
